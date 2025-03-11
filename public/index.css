@@ -1,0 +1,223 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    height: 100vh;
+    gap: 2em;
+}
+
+
+
+/* fonts */
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+
+h2 {
+    margin: 0;
+    margin-top: -15px;
+    font-size: 1em;
+}
+@media (max-width: 400px) {
+    body {
+        background-color: darkgreen;
+    }
+    h1 {
+    font-size: 1.3rem;
+    margin: 0;
+}
+h2 {
+    margin-top: unset;
+    font-size: .9em;
+}
+}
+
+@media (max-width: 320px) {
+    body {
+        background-color: darkorchid;
+    }
+}
+h3 {
+    font-size: 2em;
+}
+
+h1,
+h2 {
+    color: #dadfdb;
+}
+
+h1,
+nav a,
+h2,
+h3 {
+    font-family: "Metal Mania", serif;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 .2rem;
+    letter-spacing: 1.2px;
+    padding: 0 .5em;
+    font-size: 1.5em;
+    ;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: darkgreen;
+}
+
+
+p {
+    font-size: 100%;
+    font-family: 'Poppins';
+    margin-top: 0;
+}
+
+/* sections */
+
+.site-header,
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.site-header {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1em;
+    padding-left: 1em;
+    ;
+}
+
+nav.show {
+    max-height: 200px;
+    /* Adjust based on content */
+}
+
+header nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-right: 2em;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.current::before {
+    content: "> ";
+}
+
+.cards-container {
+    display: flex;
+    padding: 0 1em;
+    margin: 1em 0;
+    gap: 1rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.product-card h3 {
+    margin: 1rem;
+    font-size: 1.2rem;
+}
+
+.product-card p {
+    margin: 0 1rem 1rem;
+    color: #555;
+}
+
+footer {
+    font-size: 0.9rem;
+    width: 100%;
+}
+
+img {
+    max-width: 30px;
+    align-self: center;
+}
+
+/* form */
+
+.form-container {
+    text-align: center;
+    margin-bottom: auto;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: left;
+    padding: 0 1em;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input,
+textarea,
+.submit-btn {
+    width: 100%;
+    min-width: 300px;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+.submit.btn {
+    margin-top: 15px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    display: block;
+}
+
+.submit-btn:hover {
+    background-color: #45a049;
+}
+
+.menu-btn {
+    border: none;
+    background-color: transparent;
+    font-size: 2em;
+    transform: rotate(90deg);
+    color: white;
+    min-width: unset;
+    margin: 0 1em 0 auto;
+}
+
+.menu-btn:hover {
+    background-color: transparent;
+    color: deepskyblue;
+}
+
+.menu-btn.show {
+    transform: rotate(180deg);
+}

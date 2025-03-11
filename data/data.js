@@ -1,0 +1,21 @@
+[
+  {
+    location: "Exeter, UK",
+    timeStamp: "Jan 7th 2025",
+    text: "I was walking through town and went to cross the road without checking properly. An old lady across the street screamed at me to look out. I snapped out of my day dream, turned, and saw a bus careering towards me. I leapt out of the way and with horn blaring the bus roared past me, just a few centimeters from my face. I looked up to thank the old lady, but there was no sight of her in the street anywhere - she had vanished into thin air. And that was when it hit me that the old lady had been my grandmother, who had died seven years previously.",
+  },
+  {
+    location: "Edinburgh, UK",
+    timeStamp: "20 March 2024",
+    text: "I was exploring an old, abandoned theater with a friend, curious about the stories of its haunting. As we walked through the dusty corridors, I heard faint music playing—an old piano tune, clear as day. We followed the sound to the main stage, but the piano was covered in a thick sheet, untouched for years. Suddenly, a shadowy figure in formal evening attire appeared in the balcony, watching us intently before vanishing into thin air. Later, I learned about the pianist who had died in a fire there a century ago and was rumored to haunt the place.",
+  },
+  {
+    location: "Dunwich, UK",
+    timeStamp: "7th Jan 2025",
+    text: "Last year, I stayed at a bed-and-breakfast that dated back to the 1800s. Late at night, I woke up to the sound of soft footsteps in my room. Assuming it was the owner checking on the fireplace, I sat up to say hello, but there was no one there. Just as I was about to lie back down, I noticed an old rocking chair in the corner of the room moving gently back and forth. It stopped suddenly, as if someone had been sitting there and stood up. In the morning, I mentioned it to the owner, who said the chair belonged to the original occupant, a widow who used to knit by the fire every night—and that I wasn’t the first guest to see her.",
+  },
+  { location: "test", timeStamp: "4 January 2025 at 08:17 pm", text: "test" },
+  { location: "aaa", timeStamp: "18 January 2025 at 05:28 pm", text: "bbb" },
+  { location: "warnig", timeStamp: "29 January 2025 at 05:11 pm", text: "1" },
+  { location: "Exeter", timeStamp: "29 January 2025 at 06:15 pm", text: "bbq" },
+];

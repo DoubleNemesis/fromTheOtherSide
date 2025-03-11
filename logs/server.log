@@ -1,0 +1,1392 @@
+2025-01-30T12:24:45.245Z || GET /index.html
+2025-01-30T12:24:45.245Z || GET /index.html || Status: 200 || 5ms
+2025-01-30T12:24:45.271Z || GET /index.css
+2025-01-30T12:24:45.272Z || GET /images/ghost2logo.png
+2025-01-30T12:24:45.273Z || GET /index.js
+2025-01-30T12:24:45.271Z || GET /index.css || Status: 200 || 2ms
+2025-01-30T12:24:45.272Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-01-30T12:24:45.273Z || GET /index.js || Status: 200 || 1ms
+2025-01-30T12:24:45.277Z || GET /api
+2025-01-30T12:24:45.277Z || GET /api || Status: 200 || 1ms
+2025-01-30T12:33:36.314Z || GET /upload-sighting.html
+2025-01-30T12:33:36.314Z || GET /upload-sighting.html || Status: 200 || 5ms
+2025-01-30T12:33:36.342Z || GET /index.css
+2025-01-30T12:33:36.342Z || GET /images/ghost2logo.png
+2025-01-30T12:33:36.344Z || GET /upload-sighting.js
+2025-01-30T12:33:36.342Z || GET /index.css || Status: 200 || 3ms
+2025-01-30T12:33:36.342Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-01-30T12:33:36.344Z || GET /upload-sighting.js || Status: 200 || 3ms
+2025-01-30T12:33:46.995Z || POST /api/submit
+2025-01-30T12:33:46.995Z || POST /api/submit || Status: 201 || 5ms
+2025-01-30T12:33:48.605Z || GET /index.html
+2025-01-30T12:33:48.605Z || GET /index.html || Status: 200 || 2ms
+2025-01-30T12:33:48.633Z || GET /index.css
+2025-01-30T12:33:48.634Z || GET /images/ghost2logo.png
+2025-01-30T12:33:48.634Z || GET /index.js
+2025-01-30T12:33:48.633Z || GET /index.css || Status: 200 || 3ms
+2025-01-30T12:33:48.634Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-01-30T12:33:48.634Z || GET /index.js || Status: 200 || 3ms
+2025-01-30T12:33:48.640Z || GET /api
+2025-01-30T12:33:48.640Z || GET /api || Status: 200 || 0ms
+2025-01-30T12:34:16.169Z || GET /
+2025-01-30T12:34:16.169Z || GET / || Status: 200 || 2ms
+2025-01-30T12:34:16.192Z || GET /index.css
+2025-01-30T12:34:16.192Z || GET /images/ghost2logo.png
+2025-01-30T12:34:16.193Z || GET /index.js
+2025-01-30T12:34:16.192Z || GET /index.css || Status: 200 || 2ms
+2025-01-30T12:34:16.192Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-01-30T12:34:16.193Z || GET /index.js || Status: 200 || 2ms
+2025-01-30T12:34:16.197Z || GET /api
+2025-01-30T12:34:16.197Z || GET /api || Status: 200 || 0ms
+2025-01-30T12:34:17.667Z || GET /upload-sighting.html
+2025-01-30T12:34:17.667Z || GET /upload-sighting.html || Status: 200 || 2ms
+2025-01-30T12:34:17.685Z || GET /index.css
+2025-01-30T12:34:17.685Z || GET /images/ghost2logo.png
+2025-01-30T12:34:17.686Z || GET /upload-sighting.js
+2025-01-30T12:34:17.685Z || GET /index.css || Status: 200 || 2ms
+2025-01-30T12:34:17.685Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-01-30T12:34:17.686Z || GET /upload-sighting.js || Status: 200 || 2ms
+2025-01-30T12:34:18.744Z || GET /
+2025-01-30T12:34:18.744Z || GET / || Status: 200 || 5ms
+2025-01-30T12:34:18.766Z || GET /index.css
+2025-01-30T12:34:18.766Z || GET /index.css || Status: 200 || 1ms
+2025-01-30T12:34:18.769Z || GET /images/ghost2logo.png
+2025-01-30T12:34:18.770Z || GET /index.js
+2025-01-30T12:34:18.769Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-01-30T12:34:18.770Z || GET /index.js || Status: 200 || 2ms
+2025-01-30T12:34:18.775Z || GET /api
+2025-01-30T12:34:18.775Z || GET /api || Status: 200 || 0ms
+2025-01-30T12:34:19.739Z || GET /upload-sighting.html
+2025-01-30T12:34:19.739Z || GET /upload-sighting.html || Status: 200 || 1ms
+2025-01-30T12:34:19.757Z || GET /index.css
+2025-01-30T12:34:19.758Z || GET /images/ghost2logo.png
+2025-01-30T12:34:19.758Z || GET /upload-sighting.js
+2025-01-30T12:34:19.757Z || GET /index.css || Status: 200 || 1ms
+2025-01-30T12:34:19.758Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-01-30T12:34:19.758Z || GET /upload-sighting.js || Status: 200 || 1ms
+2025-01-30T12:34:24.304Z || GET /
+2025-01-30T12:34:24.304Z || GET / || Status: 200 || 1ms
+2025-01-30T12:34:24.324Z || GET /index.css
+2025-01-30T12:34:24.324Z || GET /index.css || Status: 200 || 0ms
+2025-01-30T12:34:24.326Z || GET /images/ghost2logo.png
+2025-01-30T12:34:24.326Z || GET /index.js
+2025-01-30T12:34:24.326Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-01-30T12:34:24.326Z || GET /index.js || Status: 200 || 1ms
+2025-01-30T12:34:24.331Z || GET /api
+2025-01-30T12:34:24.331Z || GET /api || Status: 200 || 1ms
+2025-01-30T12:34:29.023Z || GET /api
+2025-01-30T12:34:29.023Z || GET /api || Status: 200 || 2ms
+2025-01-30T12:34:38.889Z || GET /api/data
+[ERROR] 2025-01-30T12:34:38.889Z || GET /api/data || Status: 404 || 2ms
+2025-01-30T12:34:38.905Z || GET /api/index.css
+2025-01-30T12:34:38.906Z || GET /api/index.js
+[ERROR] 2025-01-30T12:34:38.905Z || GET /api/index.css || Status: 404 || 5ms
+[ERROR] 2025-01-30T12:34:38.906Z || GET /api/index.js || Status: 404 || 6ms
+2025-01-30T12:49:02.806Z || GET /
+2025-01-30T12:49:02.806Z || GET / || Status: 200 || 5ms
+2025-01-30T12:49:02.820Z || GET /index.css
+2025-01-30T12:49:02.820Z || GET /images/ghost2logo.png
+2025-01-30T12:49:02.821Z || GET /index.js
+2025-01-30T12:49:02.820Z || GET /index.css || Status: 200 || 1ms
+2025-01-30T12:49:02.820Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-01-30T12:49:02.821Z || GET /index.js || Status: 200 || 1ms
+2025-01-30T12:49:02.824Z || GET /api
+2025-01-30T12:49:02.824Z || GET /api || Status: 200 || 1ms
+2025-01-30T12:49:07.041Z || GET /etc/passwd
+[ERROR] 2025-01-30T12:49:07.041Z || GET /etc/passwd || Status: 404 || 4ms
+2025-01-30T12:49:07.061Z || GET /etc/index.css
+2025-01-30T12:49:07.061Z || GET /etc/index.js
+[ERROR] 2025-01-30T12:49:07.061Z || GET /etc/index.css || Status: 404 || 0ms
+[ERROR] 2025-01-30T12:49:07.061Z || GET /etc/index.js || Status: 404 || 1ms
+2025-01-30T12:49:37.528Z || GET /etc/passwd/psswrd.txt
+[ERROR] 2025-01-30T12:49:37.528Z || GET /etc/passwd/psswrd.txt || Status: 404 || 3ms
+2025-01-30T12:49:37.547Z || GET /etc/passwd/index.css
+2025-01-30T12:49:37.549Z || GET /etc/passwd/index.js
+[ERROR] 2025-01-30T12:49:37.547Z || GET /etc/passwd/index.css || Status: 404 || 3ms
+[ERROR] 2025-01-30T12:49:37.549Z || GET /etc/passwd/index.js || Status: 404 || 1ms
+2025-01-30T12:50:05.260Z || GET /etc/passwd/psswrd.txt
+[ERROR] 2025-01-30T12:50:05.260Z || GET /etc/passwd/psswrd.txt || Status: 404 || 2ms
+2025-01-30T12:50:05.278Z || GET /etc/passwd/index.css
+2025-01-30T12:50:05.278Z || GET /etc/passwd/index.js
+[ERROR] 2025-01-30T12:50:05.278Z || GET /etc/passwd/index.css || Status: 404 || 1ms
+[ERROR] 2025-01-30T12:50:05.278Z || GET /etc/passwd/index.js || Status: 404 || 2ms
+2025-01-30T12:51:16.439Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:51:16.439Z || GET /logs/server.log || Status: 404 || 4ms
+2025-01-30T12:51:16.457Z || GET /logs/index.css
+2025-01-30T12:51:16.458Z || GET /logs/index.js
+[ERROR] 2025-01-30T12:51:16.457Z || GET /logs/index.css || Status: 404 || 3ms
+[ERROR] 2025-01-30T12:51:16.458Z || GET /logs/index.js || Status: 404 || 3ms
+2025-01-30T12:51:31.174Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:51:31.174Z || GET /logs/server.log || Status: 404 || 2ms
+2025-01-30T12:51:31.191Z || GET /logs/index.css
+2025-01-30T12:51:31.191Z || GET /logs/index.js
+[ERROR] 2025-01-30T12:51:31.191Z || GET /logs/index.css || Status: 404 || 1ms
+[ERROR] 2025-01-30T12:51:31.191Z || GET /logs/index.js || Status: 404 || 1ms
+2025-01-30T12:53:50.922Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:53:50.922Z || GET /logs/server.log || Status: 404 || 1ms
+2025-01-30T12:54:28.307Z || GET /%2e%2e/%2e%2e/logs/server.log
+[ERROR] 2025-01-30T12:54:28.307Z || GET /%2e%2e/%2e%2e/logs/server.log || Status: 404 || 1ms
+2025-01-30T12:55:27.233Z || GET /etc/passwrd.txt
+[ERROR] 2025-01-30T12:55:27.233Z || GET /etc/passwrd.txt || Status: 404 || 1ms
+2025-01-30T12:55:43.785Z || GET /etc/psswrd.txt
+[ERROR] 2025-01-30T12:55:43.785Z || GET /etc/psswrd.txt || Status: 404 || 1ms
+2025-01-30T12:56:10.643Z || GET /etc/psswrd.txt
+[ERROR] 2025-01-30T12:56:10.643Z || GET /etc/psswrd.txt || Status: 404 || 5ms
+2025-01-30T12:56:33.191Z || GET /etc/psswrd
+[ERROR] 2025-01-30T12:56:33.191Z || GET /etc/psswrd || Status: 404 || 1ms
+2025-01-30T12:56:53.539Z || GET /etc/psswrd
+[ERROR] 2025-01-30T12:56:53.539Z || GET /etc/psswrd || Status: 404 || 1ms
+2025-01-30T12:56:59.140Z || GET /etc/psswrd
+[ERROR] 2025-01-30T12:56:59.140Z || GET /etc/psswrd || Status: 404 || 1ms
+2025-01-30T12:57:19.017Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:57:19.017Z || GET /logs/server.log || Status: 404 || 2ms
+2025-01-30T12:57:32.015Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:57:32.015Z || GET /logs/server.log || Status: 404 || 1ms
+2025-01-30T12:59:08.315Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:59:08.315Z || GET /logs/server.log || Status: 404 || 2ms
+2025-01-30T12:59:08.337Z || GET /%2e%2e/%2e%2e/logs/server.log
+[ERROR] 2025-01-30T12:59:08.337Z || GET /%2e%2e/%2e%2e/logs/server.log || Status: 404 || 0ms
+2025-01-30T12:59:08.349Z || GET /etc/passwd
+[ERROR] 2025-01-30T12:59:08.349Z || GET /etc/passwd || Status: 404 || 1ms
+2025-01-30T12:59:08.361Z || GET /Windows/System32/drivers/etc/hosts
+[ERROR] 2025-01-30T12:59:08.361Z || GET /Windows/System32/drivers/etc/hosts || Status: 404 || 1ms
+2025-01-30T12:59:33.707Z || GET /logs/server.log
+[ERROR] 2025-01-30T12:59:33.707Z || GET /logs/server.log || Status: 404 || 0ms
+2025-01-30T12:59:45.278Z || GET /%2e%2e/%2e%2e/logs/server.log
+[ERROR] 2025-01-30T12:59:45.278Z || GET /%2e%2e/%2e%2e/logs/server.log || Status: 404 || 3ms
+2025-01-30T13:02:38.786Z || GET /public/about.html
+[ERROR] 2025-01-30T13:02:38.786Z || GET /public/about.html || Status: 404 || 1ms
+2025-01-30T13:03:10.795Z || GET /public/about.html
+[ERROR] 2025-01-30T13:03:10.795Z || GET /public/about.html || Status: 404 || 1ms
+2025-01-30T13:04:20.584Z || GET /about.html
+[ERROR] 2025-01-30T13:04:20.584Z || GET /about.html || Status: 404 || 2ms
+2025-01-30T13:04:28.687Z || GET /about
+[ERROR] 2025-01-30T13:04:28.687Z || GET /about || Status: 404 || 1ms
+2025-01-30T13:04:41.276Z || GET /
+2025-01-30T13:04:41.276Z || GET / || Status: 200 || 1ms
+2025-01-30T13:05:15.823Z || GET /logs
+[ERROR] 2025-01-30T13:05:15.823Z || GET /logs || Status: 404 || 2ms
+2025-02-13T17:02:03.894Z || GET /
+2025-02-13T17:02:03.894Z || GET / || Status: 200 || 11ms
+2025-02-13T17:02:03.921Z || GET /index.css
+2025-02-13T17:02:03.921Z || GET /index.css || Status: 200 || 1ms
+2025-02-13T17:02:03.924Z || GET /images/ghost2logo.png
+2025-02-13T17:02:03.925Z || GET /index.js
+2025-02-13T17:02:03.924Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-13T17:02:03.925Z || GET /index.js || Status: 200 || 1ms
+2025-02-13T17:02:04.071Z || GET /api
+2025-02-13T17:02:04.071Z || GET /api || Status: 200 || 2ms
+2025-02-13T17:02:04.168Z || GET /favicon.ico
+[ERROR] 2025-02-13T17:02:04.168Z || GET /favicon.ico || Status: 404 || 1ms
+2025-02-13T17:02:05.907Z || GET /upload-sighting.html
+2025-02-13T17:02:05.907Z || GET /upload-sighting.html || Status: 200 || 1ms
+2025-02-13T17:02:05.927Z || GET /index.css
+2025-02-13T17:02:05.927Z || GET /index.css || Status: 200 || 0ms
+2025-02-13T17:02:05.931Z || GET /images/ghost2logo.png
+2025-02-13T17:02:05.931Z || GET /upload-sighting.js
+2025-02-13T17:02:05.931Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-13T17:02:05.931Z || GET /upload-sighting.js || Status: 200 || 2ms
+2025-02-13T17:02:14.919Z || POST /api/submit
+2025-02-13T17:02:14.919Z || POST /api/submit || Status: 201 || 5ms
+2025-02-13T17:02:16.625Z || GET /index.html
+2025-02-13T17:02:16.625Z || GET /index.html || Status: 200 || 7ms
+2025-02-13T17:02:16.648Z || GET /index.css
+2025-02-13T17:02:16.648Z || GET /index.css || Status: 200 || 0ms
+2025-02-13T17:02:16.650Z || GET /images/ghost2logo.png
+2025-02-13T17:02:16.652Z || GET /index.js
+2025-02-13T17:02:16.650Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-13T17:02:16.652Z || GET /index.js || Status: 200 || 0ms
+2025-02-13T17:02:16.654Z || GET /api
+2025-02-13T17:02:16.654Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:36:02.783Z || GET /
+2025-02-24T15:36:02.783Z || GET / || Status: 200 || 7ms
+2025-02-24T15:36:02.804Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T15:36:02.809Z || GET /images/ghost2logo.png
+2025-02-24T15:36:02.804Z || GET /index.css
+2025-02-24T15:36:02.810Z || GET /index.js
+2025-02-24T15:36:02.809Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T15:36:02.810Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T15:36:02.940Z || GET /api
+2025-02-24T15:36:02.940Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:36:03.067Z || GET /favicon.ico
+[ERROR] 2025-02-24T15:36:03.067Z || GET /favicon.ico || Status: 404 || 1ms
+2025-02-24T15:36:08.132Z || GET /
+2025-02-24T15:36:08.132Z || GET / || Status: 200 || 1ms
+2025-02-24T15:36:08.147Z || GET /index.css
+2025-02-24T15:36:08.148Z || GET /images/ghost2logo.png
+2025-02-24T15:36:08.149Z || GET /index.js
+2025-02-24T15:36:08.147Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T15:36:08.148Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T15:36:08.149Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T15:36:08.156Z || GET /api
+2025-02-24T15:36:08.156Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:40:33.172Z || GET /
+2025-02-24T15:40:33.172Z || GET / || Status: 200 || 4ms
+2025-02-24T15:40:33.187Z || GET /index.css
+2025-02-24T15:40:33.187Z || GET /images/ghost2logo.png
+2025-02-24T15:40:33.188Z || GET /index.js
+2025-02-24T15:40:33.187Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:40:33.187Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:40:33.188Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T15:40:33.191Z || GET /api
+2025-02-24T15:40:33.191Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:42:30.737Z || GET /
+2025-02-24T15:42:30.737Z || GET / || Status: 200 || 4ms
+2025-02-24T15:42:30.751Z || GET /index.css
+2025-02-24T15:42:30.752Z || GET /images/ghost2logo.png
+2025-02-24T15:42:30.753Z || GET /index.js
+2025-02-24T15:42:30.751Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T15:42:30.752Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T15:42:30.753Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T15:42:30.759Z || GET /api
+2025-02-24T15:42:30.759Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:43:02.393Z || GET /
+2025-02-24T15:43:02.393Z || GET / || Status: 200 || 4ms
+2025-02-24T15:43:02.417Z || GET /index.css
+2025-02-24T15:43:02.418Z || GET /images/ghost2logo.png
+2025-02-24T15:43:02.418Z || GET /index.js
+2025-02-24T15:43:02.417Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:43:02.418Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:43:02.418Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T15:43:02.422Z || GET /api
+2025-02-24T15:43:02.422Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:43:03.240Z || GET /sightings.html
+2025-02-24T15:43:03.240Z || GET /sightings.html || Status: 200 || 1ms
+2025-02-24T15:43:03.251Z || GET /index.css
+2025-02-24T15:43:03.251Z || GET /images/ghost2logo.png
+2025-02-24T15:43:03.251Z || GET /index.js
+2025-02-24T15:43:03.251Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:43:03.251Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T15:43:03.251Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T15:43:03.257Z || GET /api
+2025-02-24T15:43:03.257Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:43:04.300Z || GET /
+2025-02-24T15:43:04.300Z || GET / || Status: 200 || 1ms
+2025-02-24T15:43:04.322Z || GET /index.css
+2025-02-24T15:43:04.323Z || GET /images/ghost2logo.png
+2025-02-24T15:43:04.323Z || GET /index.js
+2025-02-24T15:43:04.322Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:43:04.323Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:43:04.323Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T15:43:04.329Z || GET /api
+2025-02-24T15:43:04.329Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:43:18.203Z || GET /
+2025-02-24T15:43:18.203Z || GET / || Status: 200 || 1ms
+2025-02-24T15:43:18.212Z || GET /index.css
+2025-02-24T15:43:18.213Z || GET /images/ghost2logo.png
+2025-02-24T15:43:18.212Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:43:18.213Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T15:43:25.143Z || GET /index.css
+2025-02-24T15:43:25.143Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T15:47:53.280Z || GET /
+2025-02-24T15:47:53.280Z || GET / || Status: 200 || 5ms
+2025-02-24T15:47:53.306Z || GET /index.css
+2025-02-24T15:47:53.307Z || GET /images/ghost2logo.png
+2025-02-24T15:47:53.306Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:47:53.307Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:48:32.413Z || GET /
+2025-02-24T15:48:32.413Z || GET / || Status: 200 || 4ms
+2025-02-24T15:48:32.435Z || GET /index.css
+2025-02-24T15:48:32.435Z || GET /images/ghost2logo.png
+2025-02-24T15:48:32.435Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:48:32.435Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:48:33.715Z || GET /
+2025-02-24T15:48:33.715Z || GET / || Status: 200 || 1ms
+2025-02-24T15:48:33.724Z || GET /index.css
+2025-02-24T15:48:33.724Z || GET /images/ghost2logo.png
+2025-02-24T15:48:33.724Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:48:33.724Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T15:48:34.290Z || GET /
+2025-02-24T15:48:34.290Z || GET / || Status: 200 || 3ms
+2025-02-24T15:48:34.309Z || GET /index.css
+2025-02-24T15:48:34.310Z || GET /images/ghost2logo.png
+2025-02-24T15:48:34.309Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:48:34.310Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T15:48:34.457Z || GET /
+2025-02-24T15:48:34.457Z || GET / || Status: 200 || 2ms
+2025-02-24T15:48:34.471Z || GET /index.css
+2025-02-24T15:48:34.472Z || GET /images/ghost2logo.png
+2025-02-24T15:48:34.471Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:48:34.472Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:49:04.410Z || GET /
+2025-02-24T15:49:04.410Z || GET / || Status: 200 || 5ms
+2025-02-24T15:49:04.426Z || GET /index.css
+2025-02-24T15:49:04.427Z || GET /images/ghost2logo.png
+2025-02-24T15:49:04.426Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:49:04.427Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:53:07.742Z || GET /
+2025-02-24T15:53:07.742Z || GET / || Status: 200 || 6ms
+2025-02-24T15:53:07.768Z || GET /index.css
+2025-02-24T15:53:07.769Z || GET /images/ghost2logo.png
+2025-02-24T15:53:07.768Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:53:07.769Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:58:37.395Z || GET /
+2025-02-24T15:58:37.395Z || GET / || Status: 200 || 4ms
+2025-02-24T15:58:37.411Z || GET /index.css
+2025-02-24T15:58:37.412Z || GET /images/ghost2logo.png
+2025-02-24T15:58:37.413Z || GET /index.js
+2025-02-24T15:58:37.411Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:58:37.412Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:58:37.413Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T15:58:37.417Z || GET /api
+2025-02-24T15:58:37.417Z || GET /api || Status: 200 || 1ms
+2025-02-24T15:58:44.543Z || GET /index.css
+2025-02-24T15:58:44.543Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T15:59:49.689Z || GET /
+2025-02-24T15:59:49.689Z || GET / || Status: 200 || 5ms
+2025-02-24T15:59:49.723Z || GET /images/ghost2logo.png
+2025-02-24T15:59:49.723Z || GET /index.css
+2025-02-24T15:59:49.724Z || GET /index.js
+2025-02-24T15:59:49.723Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T15:59:49.723Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T15:59:49.724Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T15:59:49.782Z || GET /api
+2025-02-24T15:59:49.782Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:01:12.997Z || GET /
+2025-02-24T16:01:12.997Z || GET / || Status: 200 || 3ms
+2025-02-24T16:01:13.016Z || GET /index.css
+2025-02-24T16:01:13.017Z || GET /index.js
+2025-02-24T16:01:13.017Z || GET /images/ghost2logo.png
+2025-02-24T16:01:13.016Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:01:13.017Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:01:13.017Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:01:13.094Z || GET /api
+2025-02-24T16:01:13.094Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:02:58.664Z || GET /
+2025-02-24T16:02:58.664Z || GET / || Status: 200 || 4ms
+2025-02-24T16:02:58.680Z || GET /index.css
+2025-02-24T16:02:58.681Z || GET /images/ghost2logo.png
+2025-02-24T16:02:58.682Z || GET /index.js
+2025-02-24T16:02:58.680Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:02:58.681Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:02:58.682Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:02:58.688Z || GET /api
+2025-02-24T16:02:58.688Z || GET /api || Status: 200 || 5ms
+2025-02-24T16:03:50.393Z || GET /
+2025-02-24T16:03:50.393Z || GET / || Status: 200 || 6ms
+2025-02-24T16:03:50.419Z || GET /index.css
+2025-02-24T16:03:50.419Z || GET /index.css || Status: 200 || 0ms
+2025-02-24T16:03:50.421Z || GET /images/ghost2logo.png
+2025-02-24T16:03:50.422Z || GET /index.js
+2025-02-24T16:03:50.421Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:03:50.422Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:03:50.425Z || GET /api
+2025-02-24T16:03:50.425Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:04:08.308Z || GET /
+2025-02-24T16:04:08.308Z || GET / || Status: 200 || 3ms
+2025-02-24T16:04:08.327Z || GET /index.css
+2025-02-24T16:04:08.327Z || GET /images/ghost2logo.png
+2025-02-24T16:04:08.328Z || GET /index.js
+2025-02-24T16:04:08.327Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:04:08.327Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:04:08.328Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:04:08.333Z || GET /api
+2025-02-24T16:04:08.333Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:04:27.913Z || GET /
+2025-02-24T16:04:27.913Z || GET / || Status: 200 || 5ms
+2025-02-24T16:04:27.932Z || GET /index.css
+2025-02-24T16:04:27.933Z || GET /images/ghost2logo.png
+2025-02-24T16:04:27.934Z || GET /index.js
+2025-02-24T16:04:27.932Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:04:27.933Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:04:27.934Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:04:27.937Z || GET /api
+2025-02-24T16:04:27.937Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:05:00.384Z || GET /
+2025-02-24T16:05:00.384Z || GET / || Status: 200 || 3ms
+2025-02-24T16:05:00.402Z || GET /index.css
+2025-02-24T16:05:00.404Z || GET /images/ghost2logo.png
+2025-02-24T16:05:00.406Z || GET /index.js
+2025-02-24T16:05:00.402Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:05:00.406Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:05:00.404Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:05:00.412Z || GET /api
+2025-02-24T16:05:00.412Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:05:20.753Z || GET /
+2025-02-24T16:05:20.753Z || GET / || Status: 200 || 2ms
+2025-02-24T16:05:20.767Z || GET /index.css
+2025-02-24T16:05:20.768Z || GET /images/ghost2logo.png
+2025-02-24T16:05:20.768Z || GET /index.js
+2025-02-24T16:05:20.767Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:05:20.768Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:05:20.768Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:05:20.774Z || GET /api
+2025-02-24T16:05:20.774Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:06:26.632Z || GET /
+2025-02-24T16:06:26.632Z || GET / || Status: 200 || 2ms
+2025-02-24T16:06:26.650Z || GET /index.css
+2025-02-24T16:06:26.651Z || GET /images/ghost2logo.png
+2025-02-24T16:06:26.652Z || GET /index.js
+2025-02-24T16:06:26.650Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:06:26.651Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:06:26.652Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:06:26.657Z || GET /api
+2025-02-24T16:06:26.657Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:06:45.118Z || GET /
+2025-02-24T16:06:45.118Z || GET / || Status: 200 || 1ms
+2025-02-24T16:06:45.130Z || GET /index.css
+2025-02-24T16:06:45.131Z || GET /images/ghost2logo.png
+2025-02-24T16:06:45.132Z || GET /index.js
+2025-02-24T16:06:45.130Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:06:45.131Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:06:45.132Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:06:45.136Z || GET /api
+2025-02-24T16:06:45.136Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:06:46.167Z || GET /
+2025-02-24T16:06:46.167Z || GET / || Status: 200 || 2ms
+2025-02-24T16:06:46.182Z || GET /index.css
+2025-02-24T16:06:46.183Z || GET /images/ghost2logo.png
+2025-02-24T16:06:46.183Z || GET /index.js
+2025-02-24T16:06:46.182Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:06:46.183Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:06:46.183Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:06:46.188Z || GET /api
+2025-02-24T16:06:46.188Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:06:59.668Z || GET /
+2025-02-24T16:06:59.668Z || GET / || Status: 200 || 1ms
+2025-02-24T16:06:59.685Z || GET /index.css
+2025-02-24T16:06:59.689Z || GET /images/ghost2logo.png
+2025-02-24T16:06:59.689Z || GET /index.js
+2025-02-24T16:06:59.689Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:06:59.685Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:06:59.689Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:06:59.694Z || GET /api
+2025-02-24T16:06:59.694Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:07:19.551Z || GET /
+2025-02-24T16:07:19.551Z || GET / || Status: 200 || 1ms
+2025-02-24T16:07:19.565Z || GET /index.css
+2025-02-24T16:07:19.566Z || GET /images/ghost2logo.png
+2025-02-24T16:07:19.566Z || GET /index.js
+2025-02-24T16:07:19.566Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:07:19.565Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:07:19.566Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:07:19.572Z || GET /api
+2025-02-24T16:07:19.572Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:07:29.495Z || GET /
+2025-02-24T16:07:29.495Z || GET / || Status: 200 || 3ms
+2025-02-24T16:07:29.509Z || GET /index.css
+2025-02-24T16:07:29.510Z || GET /images/ghost2logo.png
+2025-02-24T16:07:29.511Z || GET /index.js
+2025-02-24T16:07:29.509Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:07:29.510Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:07:29.511Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:07:29.515Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:07:29.515Z || GET /api
+2025-02-24T16:08:18.256Z || GET /
+2025-02-24T16:08:18.256Z || GET / || Status: 200 || 2ms
+2025-02-24T16:08:18.273Z || GET /index.css
+2025-02-24T16:08:18.273Z || GET /index.css || Status: 200 || 0ms
+2025-02-24T16:08:18.276Z || GET /images/ghost2logo.png
+2025-02-24T16:08:18.276Z || GET /index.js
+2025-02-24T16:08:18.276Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:08:18.276Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:08:18.280Z || GET /api
+2025-02-24T16:08:18.280Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:08:37.110Z || GET /
+2025-02-24T16:08:37.110Z || GET / || Status: 200 || 1ms
+2025-02-24T16:08:37.121Z || GET /index.css
+2025-02-24T16:08:37.123Z || GET /images/ghost2logo.png
+2025-02-24T16:08:37.124Z || GET /index.js
+2025-02-24T16:08:37.121Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:08:37.123Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:08:37.124Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:08:37.129Z || GET /api
+2025-02-24T16:08:37.129Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:11:45.395Z || GET /
+2025-02-24T16:11:45.395Z || GET / || Status: 200 || 5ms
+2025-02-24T16:11:45.419Z || GET /index.css
+2025-02-24T16:11:45.420Z || GET /images/ghost2logo.png
+2025-02-24T16:11:45.421Z || GET /index.js
+2025-02-24T16:11:45.419Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:11:45.420Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:11:45.421Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:11:45.432Z || GET /api
+2025-02-24T16:11:45.432Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:12:42.840Z || GET /
+2025-02-24T16:12:42.840Z || GET / || Status: 200 || 2ms
+2025-02-24T16:12:42.852Z || GET /index.css
+2025-02-24T16:12:42.853Z || GET /images/ghost2logo.png
+2025-02-24T16:12:42.854Z || GET /index.js
+2025-02-24T16:12:42.852Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:12:42.853Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:12:42.854Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:12:42.858Z || GET /api
+2025-02-24T16:12:42.858Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:13:03.639Z || GET /
+2025-02-24T16:13:03.639Z || GET / || Status: 200 || 2ms
+2025-02-24T16:13:03.655Z || GET /index.css
+2025-02-24T16:13:03.656Z || GET /images/ghost2logo.png
+2025-02-24T16:13:03.658Z || GET /index.js
+2025-02-24T16:13:03.655Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:13:03.658Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:13:03.656Z || GET /images/ghost2logo.png || Status: 200 || 6ms
+2025-02-24T16:13:03.665Z || GET /api
+2025-02-24T16:13:03.665Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:14:22.842Z || GET /
+2025-02-24T16:14:22.842Z || GET / || Status: 200 || 1ms
+2025-02-24T16:14:22.855Z || GET /index.css
+2025-02-24T16:14:22.856Z || GET /images/ghost2logo.png
+2025-02-24T16:14:22.857Z || GET /index.js
+2025-02-24T16:14:22.855Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:14:22.856Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:14:22.857Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:14:22.861Z || GET /api
+2025-02-24T16:14:22.861Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:15:03.359Z || GET /
+2025-02-24T16:15:03.359Z || GET / || Status: 200 || 2ms
+2025-02-24T16:15:03.374Z || GET /index.css
+2025-02-24T16:15:03.374Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:15:03.376Z || GET /images/ghost2logo.png
+2025-02-24T16:15:03.377Z || GET /index.js
+2025-02-24T16:15:03.376Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:15:03.377Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:15:03.381Z || GET /api
+2025-02-24T16:15:03.381Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:15:14.116Z || GET /index.css
+2025-02-24T16:15:14.116Z || GET /index.css || Status: 200 || 0ms
+2025-02-24T16:15:18.781Z || GET /
+2025-02-24T16:15:18.781Z || GET / || Status: 200 || 1ms
+2025-02-24T16:15:18.799Z || GET /index.css
+2025-02-24T16:15:18.800Z || GET /images/ghost2logo.png
+2025-02-24T16:15:18.800Z || GET /index.js
+2025-02-24T16:15:18.799Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:15:18.800Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:15:18.800Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:15:18.862Z || GET /api
+2025-02-24T16:15:18.862Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:17:13.151Z || GET /index.css
+2025-02-24T16:17:13.151Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:19:45.238Z || GET /
+2025-02-24T16:19:45.238Z || GET / || Status: 200 || 1ms
+2025-02-24T16:19:45.269Z || GET /index.css
+2025-02-24T16:19:45.272Z || GET /index.js
+2025-02-24T16:19:45.272Z || GET /images/ghost2logo.png
+2025-02-24T16:19:45.269Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:19:45.272Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:19:45.272Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:19:45.341Z || GET /api
+2025-02-24T16:19:45.341Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:22:54.267Z || GET /
+2025-02-24T16:22:54.267Z || GET / || Status: 200 || 2ms
+2025-02-24T16:22:54.292Z || GET /index.css
+2025-02-24T16:22:54.292Z || GET /index.js
+2025-02-24T16:22:54.293Z || GET /images/ghost2logo.png
+2025-02-24T16:22:54.292Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:22:54.292Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:22:54.293Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:22:54.364Z || GET /api
+2025-02-24T16:22:54.364Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:23:24.313Z || GET /
+2025-02-24T16:23:24.313Z || GET / || Status: 200 || 1ms
+2025-02-24T16:23:24.329Z || GET /index.css
+2025-02-24T16:23:24.331Z || GET /index.js
+2025-02-24T16:23:24.329Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:23:24.331Z || GET /images/ghost2logo.png
+2025-02-24T16:23:24.331Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:23:24.331Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:23:24.371Z || GET /api
+2025-02-24T16:23:24.371Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:23:57.040Z || GET /
+2025-02-24T16:23:57.040Z || GET / || Status: 200 || 1ms
+2025-02-24T16:23:57.057Z || GET /index.css
+2025-02-24T16:23:57.058Z || GET /index.js
+2025-02-24T16:23:57.058Z || GET /images/ghost2logo.png
+2025-02-24T16:23:57.057Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:23:57.058Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:23:57.058Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:23:57.104Z || GET /api
+2025-02-24T16:23:57.104Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:24:47.764Z || GET /
+2025-02-24T16:24:47.764Z || GET / || Status: 200 || 1ms
+2025-02-24T16:24:47.782Z || GET /index.css
+2025-02-24T16:24:47.784Z || GET /images/ghost2logo.png
+2025-02-24T16:24:47.786Z || GET /index.js
+2025-02-24T16:24:47.782Z || GET /index.css || Status: 200 || 6ms
+2025-02-24T16:24:47.784Z || GET /images/ghost2logo.png || Status: 200 || 5ms
+2025-02-24T16:24:47.786Z || GET /index.js || Status: 200 || 5ms
+2025-02-24T16:24:47.843Z || GET /api
+2025-02-24T16:24:47.843Z || GET /api || Status: 200 || 4ms
+2025-02-24T16:25:01.811Z || GET /
+2025-02-24T16:25:01.811Z || GET / || Status: 200 || 2ms
+2025-02-24T16:25:01.827Z || GET /index.css
+2025-02-24T16:25:01.828Z || GET /images/ghost2logo.png
+2025-02-24T16:25:01.829Z || GET /index.js
+2025-02-24T16:25:01.827Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:25:01.828Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:25:01.829Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:25:01.839Z || GET /api
+2025-02-24T16:25:01.839Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:25:04.789Z || GET /index.css
+2025-02-24T16:25:04.789Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:26:12.046Z || GET /
+2025-02-24T16:26:12.046Z || GET / || Status: 200 || 1ms
+2025-02-24T16:26:12.068Z || GET /index.js
+2025-02-24T16:26:12.069Z || GET /images/ghost2logo.png
+2025-02-24T16:26:12.071Z || GET /index.css
+2025-02-24T16:26:12.068Z || GET /index.js || Status: 200 || 6ms
+2025-02-24T16:26:12.069Z || GET /images/ghost2logo.png || Status: 200 || 6ms
+2025-02-24T16:26:12.071Z || GET /index.css || Status: 200 || 6ms
+2025-02-24T16:26:12.113Z || GET /api
+2025-02-24T16:26:12.113Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:26:13.058Z || GET /
+2025-02-24T16:26:13.058Z || GET / || Status: 200 || 1ms
+2025-02-24T16:26:13.069Z || GET /index.css
+2025-02-24T16:26:13.073Z || GET /images/ghost2logo.png
+2025-02-24T16:26:13.069Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:26:13.073Z || GET /index.js
+2025-02-24T16:26:13.073Z || GET /images/ghost2logo.png || Status: 200 || 11ms
+2025-02-24T16:26:13.073Z || GET /index.js || Status: 200 || 12ms
+2025-02-24T16:26:13.118Z || GET /api
+2025-02-24T16:26:13.118Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:26:13.903Z || GET /
+2025-02-24T16:26:13.903Z || GET / || Status: 200 || 3ms
+2025-02-24T16:26:13.924Z || GET /index.js
+2025-02-24T16:26:13.925Z || GET /images/ghost2logo.png
+2025-02-24T16:26:13.925Z || GET /index.css
+2025-02-24T16:26:13.925Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:26:13.925Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:26:13.924Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:26:13.964Z || GET /api
+2025-02-24T16:26:13.964Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:26:36.098Z || GET /
+2025-02-24T16:26:36.098Z || GET / || Status: 200 || 1ms
+2025-02-24T16:26:36.115Z || GET /index.css
+2025-02-24T16:26:36.115Z || GET /index.js
+2025-02-24T16:26:36.116Z || GET /images/ghost2logo.png
+2025-02-24T16:26:36.115Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:26:36.115Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:26:36.116Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:26:36.151Z || GET /api
+2025-02-24T16:26:36.151Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:26:54.933Z || GET /
+2025-02-24T16:26:54.933Z || GET / || Status: 200 || 2ms
+2025-02-24T16:26:54.951Z || GET /images/ghost2logo.png
+2025-02-24T16:26:54.952Z || GET /index.css
+2025-02-24T16:26:54.952Z || GET /index.js
+2025-02-24T16:26:54.952Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:26:54.952Z || GET /index.js || Status: 200 || 7ms
+2025-02-24T16:26:54.951Z || GET /images/ghost2logo.png || Status: 200 || 8ms
+2025-02-24T16:26:54.993Z || GET /api
+2025-02-24T16:26:54.993Z || GET /api || Status: 200 || 5ms
+2025-02-24T16:27:25.355Z || GET /
+2025-02-24T16:27:25.355Z || GET / || Status: 200 || 2ms
+2025-02-24T16:27:25.376Z || GET /index.css
+2025-02-24T16:27:25.380Z || GET /index.js
+2025-02-24T16:27:25.384Z || GET /images/ghost2logo.png
+2025-02-24T16:27:25.376Z || GET /index.css || Status: 200 || 10ms
+2025-02-24T16:27:25.380Z || GET /index.js || Status: 200 || 6ms
+2025-02-24T16:27:25.384Z || GET /images/ghost2logo.png || Status: 200 || 7ms
+2025-02-24T16:27:25.459Z || GET /api
+2025-02-24T16:27:25.459Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:27:32.872Z || GET /
+2025-02-24T16:27:32.872Z || GET / || Status: 200 || 0ms
+2025-02-24T16:27:32.889Z || GET /index.css
+2025-02-24T16:27:32.890Z || GET /images/ghost2logo.png
+2025-02-24T16:27:32.890Z || GET /index.js
+2025-02-24T16:27:32.889Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:27:32.890Z || GET /images/ghost2logo.png || Status: 200 || 0ms
+2025-02-24T16:27:32.890Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:27:32.932Z || GET /api
+2025-02-24T16:27:32.932Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:28:22.467Z || GET /
+2025-02-24T16:28:22.467Z || GET / || Status: 200 || 0ms
+2025-02-24T16:28:22.484Z || GET /index.css
+2025-02-24T16:28:22.485Z || GET /images/ghost2logo.png
+2025-02-24T16:28:22.485Z || GET /index.js
+2025-02-24T16:28:22.484Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:28:22.485Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:28:22.485Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:28:22.535Z || GET /api
+2025-02-24T16:28:22.535Z || GET /api || Status: 200 || 4ms
+2025-02-24T16:28:41.599Z || GET /
+2025-02-24T16:28:41.599Z || GET / || Status: 200 || 1ms
+2025-02-24T16:28:41.615Z || GET /index.css
+2025-02-24T16:28:41.616Z || GET /index.js
+2025-02-24T16:28:41.617Z || GET /images/ghost2logo.png
+2025-02-24T16:28:41.615Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:28:41.616Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:28:41.617Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:28:41.658Z || GET /api
+2025-02-24T16:28:41.658Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:28:53.480Z || GET /
+2025-02-24T16:28:53.480Z || GET / || Status: 200 || 1ms
+2025-02-24T16:28:53.494Z || GET /index.css
+2025-02-24T16:28:53.495Z || GET /index.js
+2025-02-24T16:28:53.495Z || GET /images/ghost2logo.png
+2025-02-24T16:28:53.494Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:28:53.495Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:28:53.495Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:28:53.539Z || GET /api
+2025-02-24T16:28:53.539Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:29:30.971Z || GET /
+2025-02-24T16:29:30.971Z || GET / || Status: 200 || 2ms
+2025-02-24T16:29:30.989Z || GET /index.css
+2025-02-24T16:29:30.990Z || GET /index.js
+2025-02-24T16:29:30.991Z || GET /images/ghost2logo.png
+2025-02-24T16:29:30.989Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:29:30.990Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:29:30.991Z || GET /images/ghost2logo.png || Status: 200 || 8ms
+2025-02-24T16:29:31.038Z || GET /api
+2025-02-24T16:29:31.038Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:29:36.941Z || GET /
+2025-02-24T16:29:36.941Z || GET / || Status: 200 || 0ms
+2025-02-24T16:29:36.954Z || GET /index.css
+2025-02-24T16:29:36.957Z || GET /images/ghost2logo.png
+2025-02-24T16:29:36.958Z || GET /index.js
+2025-02-24T16:29:36.954Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:29:36.958Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:29:36.957Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:29:36.989Z || GET /api
+2025-02-24T16:29:36.989Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:29:38.071Z || GET /
+2025-02-24T16:29:38.071Z || GET / || Status: 200 || 2ms
+2025-02-24T16:29:38.088Z || GET /index.css
+2025-02-24T16:29:38.088Z || GET /index.js
+2025-02-24T16:29:38.088Z || GET /images/ghost2logo.png
+2025-02-24T16:29:38.088Z || GET /index.css || Status: 200 || 0ms
+2025-02-24T16:29:38.088Z || GET /index.js || Status: 200 || 0ms
+2025-02-24T16:29:38.088Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:29:38.133Z || GET /api
+2025-02-24T16:29:38.133Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:29:56.874Z || GET /
+2025-02-24T16:29:56.874Z || GET / || Status: 200 || 1ms
+2025-02-24T16:29:56.890Z || GET /index.css
+2025-02-24T16:29:56.894Z || GET /index.js
+2025-02-24T16:29:56.895Z || GET /images/ghost2logo.png
+2025-02-24T16:29:56.890Z || GET /index.css || Status: 200 || 8ms
+2025-02-24T16:29:56.894Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:29:56.895Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:29:56.944Z || GET /api
+2025-02-24T16:29:56.944Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:30:22.988Z || GET /
+2025-02-24T16:30:22.988Z || GET / || Status: 200 || 1ms
+2025-02-24T16:30:23.003Z || GET /images/ghost2logo.png
+2025-02-24T16:30:23.004Z || GET /index.css
+2025-02-24T16:30:23.005Z || GET /index.js
+2025-02-24T16:30:23.003Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:30:23.004Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:30:23.005Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:30:23.052Z || GET /api
+2025-02-24T16:30:23.052Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:30:23.875Z || GET /
+2025-02-24T16:30:23.875Z || GET / || Status: 200 || 1ms
+2025-02-24T16:30:23.894Z || GET /index.css
+2025-02-24T16:30:23.894Z || GET /images/ghost2logo.png
+2025-02-24T16:30:23.895Z || GET /index.js
+2025-02-24T16:30:23.894Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:30:23.894Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:30:23.895Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:30:23.931Z || GET /api
+2025-02-24T16:30:23.931Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:30:40.862Z || GET /
+2025-02-24T16:30:40.862Z || GET / || Status: 200 || 3ms
+2025-02-24T16:30:40.878Z || GET /index.css
+2025-02-24T16:30:40.879Z || GET /index.js
+2025-02-24T16:30:40.879Z || GET /images/ghost2logo.png
+2025-02-24T16:30:40.879Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:30:40.878Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:30:40.879Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:30:40.921Z || GET /api
+2025-02-24T16:30:40.921Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:30:54.435Z || GET /
+2025-02-24T16:30:54.435Z || GET / || Status: 200 || 1ms
+2025-02-24T16:30:54.452Z || GET /index.js
+2025-02-24T16:30:54.453Z || GET /index.css
+2025-02-24T16:30:54.454Z || GET /images/ghost2logo.png
+2025-02-24T16:30:54.452Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:30:54.453Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:30:54.454Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:30:54.491Z || GET /api
+2025-02-24T16:30:54.491Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:31:58.103Z || GET /
+2025-02-24T16:31:58.103Z || GET / || Status: 200 || 2ms
+2025-02-24T16:31:58.132Z || GET /index.css
+2025-02-24T16:31:58.132Z || GET /index.js
+2025-02-24T16:31:58.132Z || GET /images/ghost2logo.png
+2025-02-24T16:31:58.132Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:31:58.132Z || GET /index.js || Status: 200 || 5ms
+2025-02-24T16:31:58.132Z || GET /images/ghost2logo.png || Status: 200 || 5ms
+2025-02-24T16:31:58.212Z || GET /api
+2025-02-24T16:31:58.212Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:32:59.665Z || GET /
+2025-02-24T16:32:59.665Z || GET / || Status: 200 || 4ms
+2025-02-24T16:32:59.686Z || GET /index.css
+2025-02-24T16:32:59.688Z || GET /index.js
+2025-02-24T16:32:59.689Z || GET /images/ghost2logo.png
+2025-02-24T16:32:59.686Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:32:59.688Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:32:59.689Z || GET /images/ghost2logo.png || Status: 200 || 12ms
+2025-02-24T16:32:59.762Z || GET /api
+2025-02-24T16:32:59.762Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:33:15.082Z || GET /
+2025-02-24T16:33:15.082Z || GET / || Status: 200 || 1ms
+2025-02-24T16:33:15.099Z || GET /index.css
+2025-02-24T16:33:15.103Z || GET /index.js
+2025-02-24T16:33:15.106Z || GET /images/ghost2logo.png
+2025-02-24T16:33:15.099Z || GET /index.css || Status: 200 || 7ms
+2025-02-24T16:33:15.103Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:33:15.106Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:33:15.138Z || GET /api
+2025-02-24T16:33:15.138Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:33:52.383Z || GET /
+2025-02-24T16:33:52.383Z || GET / || Status: 200 || 2ms
+2025-02-24T16:33:52.405Z || GET /index.css
+2025-02-24T16:33:52.408Z || GET /images/ghost2logo.png
+2025-02-24T16:33:52.409Z || GET /index.js
+2025-02-24T16:33:52.405Z || GET /index.css || Status: 200 || 6ms
+2025-02-24T16:33:52.409Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:33:52.408Z || GET /images/ghost2logo.png || Status: 200 || 7ms
+2025-02-24T16:33:52.448Z || GET /api
+2025-02-24T16:33:52.448Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:34:01.637Z || GET /
+2025-02-24T16:34:01.637Z || GET / || Status: 200 || 1ms
+2025-02-24T16:34:01.662Z || GET /index.css
+2025-02-24T16:34:01.662Z || GET /images/ghost2logo.png
+2025-02-24T16:34:01.663Z || GET /index.js
+2025-02-24T16:34:01.662Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:34:01.662Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:34:01.663Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:34:01.700Z || GET /api
+2025-02-24T16:34:01.700Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:34:02.688Z || GET /
+2025-02-24T16:34:02.688Z || GET / || Status: 200 || 1ms
+2025-02-24T16:34:02.709Z || GET /index.js
+2025-02-24T16:34:02.710Z || GET /images/ghost2logo.png
+2025-02-24T16:34:02.711Z || GET /index.css
+2025-02-24T16:34:02.709Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:34:02.710Z || GET /images/ghost2logo.png || Status: 200 || 5ms
+2025-02-24T16:34:02.711Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:34:02.756Z || GET /api
+2025-02-24T16:34:02.756Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:34:44.438Z || GET /
+2025-02-24T16:34:44.438Z || GET / || Status: 200 || 2ms
+2025-02-24T16:34:44.462Z || GET /index.css
+2025-02-24T16:34:44.463Z || GET /index.js
+2025-02-24T16:34:44.464Z || GET /images/ghost2logo.png
+2025-02-24T16:34:44.462Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:34:44.463Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:34:44.464Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:34:44.530Z || GET /api
+2025-02-24T16:34:44.530Z || GET /api || Status: 200 || 4ms
+2025-02-24T16:35:04.356Z || GET /
+2025-02-24T16:35:04.356Z || GET / || Status: 200 || 4ms
+2025-02-24T16:35:04.378Z || GET /index.css
+2025-02-24T16:35:04.378Z || GET /images/ghost2logo.png
+2025-02-24T16:35:04.379Z || GET /index.js
+2025-02-24T16:35:04.378Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:35:04.378Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:35:04.379Z || GET /index.js || Status: 200 || 0ms
+2025-02-24T16:35:04.415Z || GET /api
+2025-02-24T16:35:04.415Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:35:05.445Z || GET /
+2025-02-24T16:35:05.445Z || GET / || Status: 200 || 7ms
+2025-02-24T16:35:05.470Z || GET /index.js
+2025-02-24T16:35:05.470Z || GET /images/ghost2logo.png
+2025-02-24T16:35:05.470Z || GET /index.css
+2025-02-24T16:35:05.470Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:35:05.470Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:35:05.470Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:35:05.506Z || GET /api
+2025-02-24T16:35:05.506Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:35:06.345Z || GET /
+2025-02-24T16:35:06.345Z || GET / || Status: 200 || 2ms
+2025-02-24T16:35:06.365Z || GET /index.css
+2025-02-24T16:35:06.366Z || GET /index.js
+2025-02-24T16:35:06.367Z || GET /images/ghost2logo.png
+2025-02-24T16:35:06.365Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:35:06.366Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:35:06.367Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:35:06.407Z || GET /api
+2025-02-24T16:35:06.407Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:36:45.632Z || GET /
+2025-02-24T16:36:45.632Z || GET / || Status: 200 || 2ms
+2025-02-24T16:36:45.657Z || GET /index.css
+2025-02-24T16:36:45.661Z || GET /index.js
+2025-02-24T16:36:45.661Z || GET /images/ghost2logo.png
+2025-02-24T16:36:45.657Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:36:45.661Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:36:45.661Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:36:45.726Z || GET /api
+2025-02-24T16:36:45.726Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:36:46.664Z || GET /
+2025-02-24T16:36:46.664Z || GET / || Status: 200 || 1ms
+2025-02-24T16:36:46.680Z || GET /index.css
+2025-02-24T16:36:46.681Z || GET /index.js
+2025-02-24T16:36:46.682Z || GET /images/ghost2logo.png
+2025-02-24T16:36:46.680Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:36:46.681Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:36:46.682Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:36:46.713Z || GET /api
+2025-02-24T16:36:46.713Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:36:46.858Z || GET /
+2025-02-24T16:36:46.858Z || GET / || Status: 200 || 2ms
+2025-02-24T16:36:46.876Z || GET /index.css
+2025-02-24T16:36:46.877Z || GET /index.js
+2025-02-24T16:36:46.877Z || GET /images/ghost2logo.png
+2025-02-24T16:36:46.876Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:36:46.877Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:36:46.877Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:36:46.912Z || GET /api
+2025-02-24T16:36:46.912Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:37:00.649Z || GET /
+2025-02-24T16:37:00.649Z || GET / || Status: 200 || 2ms
+2025-02-24T16:37:00.667Z || GET /index.css
+2025-02-24T16:37:00.667Z || GET /index.js
+2025-02-24T16:37:00.668Z || GET /images/ghost2logo.png
+2025-02-24T16:37:00.667Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:37:00.667Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:37:00.668Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:37:00.716Z || GET /api
+2025-02-24T16:37:00.716Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:37:09.740Z || GET /
+2025-02-24T16:37:09.740Z || GET / || Status: 200 || 7ms
+2025-02-24T16:37:09.758Z || GET /index.css
+2025-02-24T16:37:09.759Z || GET /index.js
+2025-02-24T16:37:09.761Z || GET /images/ghost2logo.png
+2025-02-24T16:37:09.758Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:37:09.759Z || GET /index.js || Status: 200 || 5ms
+2025-02-24T16:37:09.761Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:37:09.807Z || GET /api
+2025-02-24T16:37:09.807Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:37:09.974Z || GET /favicon.ico
+[ERROR] 2025-02-24T16:37:09.974Z || GET /favicon.ico || Status: 404 || 2ms
+2025-02-24T16:37:50.238Z || GET /
+2025-02-24T16:37:50.238Z || GET / || Status: 200 || 3ms
+2025-02-24T16:37:50.262Z || GET /index.css
+2025-02-24T16:37:50.264Z || GET /index.js
+2025-02-24T16:37:50.264Z || GET /images/ghost2logo.png
+2025-02-24T16:37:50.262Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:37:50.264Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:37:50.264Z || GET /images/ghost2logo.png || Status: 200 || 8ms
+2025-02-24T16:37:50.305Z || GET /api
+2025-02-24T16:37:50.305Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:37:51.060Z || GET /
+2025-02-24T16:37:51.060Z || GET / || Status: 200 || 0ms
+2025-02-24T16:37:51.074Z || GET /index.css
+2025-02-24T16:37:51.075Z || GET /index.js
+2025-02-24T16:37:51.075Z || GET /images/ghost2logo.png
+2025-02-24T16:37:51.074Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:37:51.075Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:37:51.075Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:37:51.111Z || GET /api
+2025-02-24T16:37:51.111Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:37:51.585Z || GET /
+2025-02-24T16:37:51.585Z || GET / || Status: 200 || 2ms
+2025-02-24T16:37:51.601Z || GET /index.css
+2025-02-24T16:37:51.603Z || GET /index.js
+2025-02-24T16:37:51.604Z || GET /images/ghost2logo.png
+2025-02-24T16:37:51.601Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:37:51.603Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:37:51.604Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:37:51.645Z || GET /api
+2025-02-24T16:37:51.645Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:37:51.779Z || GET /
+2025-02-24T16:37:51.779Z || GET / || Status: 200 || 1ms
+2025-02-24T16:37:51.791Z || GET /index.css
+2025-02-24T16:37:51.791Z || GET /index.js
+2025-02-24T16:37:51.791Z || GET /images/ghost2logo.png
+2025-02-24T16:37:51.791Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:37:51.791Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:37:51.791Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:37:51.828Z || GET /api
+2025-02-24T16:37:51.828Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:38:04.747Z || GET /
+2025-02-24T16:38:04.747Z || GET / || Status: 200 || 4ms
+2025-02-24T16:38:04.768Z || GET /index.css
+2025-02-24T16:38:04.770Z || GET /index.js
+2025-02-24T16:38:04.770Z || GET /images/ghost2logo.png
+2025-02-24T16:38:04.768Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:38:04.770Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:38:04.770Z || GET /index.js || Status: 200 || 5ms
+2025-02-24T16:38:04.884Z || GET /api
+2025-02-24T16:38:04.884Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:38:41.646Z || GET /index.css
+2025-02-24T16:38:41.646Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:38:51.313Z || GET /index.css
+2025-02-24T16:38:51.313Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:39:03.087Z || GET /
+2025-02-24T16:39:03.087Z || GET / || Status: 200 || 2ms
+2025-02-24T16:39:03.100Z || GET /index.css
+2025-02-24T16:39:03.102Z || GET /images/ghost2logo.png
+2025-02-24T16:39:03.107Z || GET /index.js
+2025-02-24T16:39:03.100Z || GET /index.css || Status: 200 || 7ms
+2025-02-24T16:39:03.102Z || GET /images/ghost2logo.png || Status: 200 || 7ms
+2025-02-24T16:39:03.107Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T16:39:03.127Z || GET /api
+2025-02-24T16:39:03.127Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:39:07.309Z || GET /index.css
+2025-02-24T16:39:07.309Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:39:25.237Z || GET /
+2025-02-24T16:39:25.237Z || GET / || Status: 200 || 1ms
+2025-02-24T16:39:25.248Z || GET /index.css
+2025-02-24T16:39:25.250Z || GET /index.js
+2025-02-24T16:39:25.251Z || GET /images/ghost2logo.png
+2025-02-24T16:39:25.248Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:39:25.250Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:39:25.251Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:39:25.388Z || GET /api
+2025-02-24T16:39:25.388Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:39:28.272Z || GET /index.css
+2025-02-24T16:39:28.272Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:39:51.077Z || GET /
+2025-02-24T16:39:51.077Z || GET / || Status: 200 || 1ms
+2025-02-24T16:39:51.094Z || GET /index.css
+2025-02-24T16:39:51.096Z || GET /index.js
+2025-02-24T16:39:51.096Z || GET /images/ghost2logo.png
+2025-02-24T16:39:51.094Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:39:51.096Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:39:51.096Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:39:51.145Z || GET /api
+2025-02-24T16:39:51.145Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:40:03.826Z || GET /
+2025-02-24T16:40:03.826Z || GET / || Status: 200 || 1ms
+2025-02-24T16:40:03.865Z || GET /index.css
+2025-02-24T16:40:03.865Z || GET /index.css || Status: 200 || 0ms
+2025-02-24T16:40:03.867Z || GET /index.js
+2025-02-24T16:40:03.867Z || GET /index.js || Status: 200 || 0ms
+2025-02-24T16:40:04.101Z || GET /images/ghost2logo.png
+2025-02-24T16:40:04.101Z || GET /images/ghost2logo.png || Status: 200 || 7ms
+2025-02-24T16:40:04.152Z || GET /api
+2025-02-24T16:40:04.152Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:40:04.153Z || GET /favicon.ico
+[ERROR] 2025-02-24T16:40:04.153Z || GET /favicon.ico || Status: 404 || 1ms
+2025-02-24T16:40:27.210Z || GET /
+2025-02-24T16:40:27.210Z || GET / || Status: 200 || 3ms
+2025-02-24T16:40:27.226Z || GET /index.css
+2025-02-24T16:40:27.227Z || GET /index.js
+2025-02-24T16:40:27.228Z || GET /images/ghost2logo.png
+2025-02-24T16:40:27.226Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:40:27.227Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T16:40:27.228Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:40:27.314Z || GET /api
+2025-02-24T16:40:27.314Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:40:40.692Z || GET /
+2025-02-24T16:40:40.692Z || GET / || Status: 200 || 2ms
+2025-02-24T16:40:40.709Z || GET /index.css
+2025-02-24T16:40:40.710Z || GET /images/ghost2logo.png
+2025-02-24T16:40:40.711Z || GET /index.js
+2025-02-24T16:40:40.709Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T16:40:40.711Z || GET /index.js || Status: 200 || 0ms
+2025-02-24T16:40:40.710Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:40:40.746Z || GET /api
+2025-02-24T16:40:40.746Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:40:41.430Z || GET /
+2025-02-24T16:40:41.430Z || GET / || Status: 200 || 2ms
+2025-02-24T16:40:41.448Z || GET /index.css
+2025-02-24T16:40:41.448Z || GET /images/ghost2logo.png
+2025-02-24T16:40:41.449Z || GET /index.js
+2025-02-24T16:40:41.448Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:40:41.448Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:40:41.449Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:40:41.489Z || GET /api
+2025-02-24T16:40:41.489Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:40:41.620Z || GET /
+2025-02-24T16:40:41.620Z || GET / || Status: 200 || 2ms
+2025-02-24T16:40:41.632Z || GET /index.css
+2025-02-24T16:40:41.632Z || GET /index.js
+2025-02-24T16:40:41.632Z || GET /images/ghost2logo.png
+2025-02-24T16:40:41.632Z || GET /index.css || Status: 200 || 0ms
+2025-02-24T16:40:41.632Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:40:41.632Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:40:41.672Z || GET /api
+2025-02-24T16:40:41.672Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:40:41.890Z || GET /
+2025-02-24T16:40:41.890Z || GET / || Status: 200 || 2ms
+2025-02-24T16:40:41.902Z || GET /index.css
+2025-02-24T16:40:41.903Z || GET /images/ghost2logo.png
+2025-02-24T16:40:41.903Z || GET /index.js
+2025-02-24T16:40:41.902Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T16:40:41.903Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:40:41.903Z || GET /index.js || Status: 200 || 4ms
+2025-02-24T16:40:41.943Z || GET /api
+2025-02-24T16:40:41.943Z || GET /api || Status: 200 || 1ms
+2025-02-24T16:41:10.346Z || GET /
+2025-02-24T16:41:10.346Z || GET / || Status: 200 || 1ms
+2025-02-24T16:41:10.360Z || GET /index.css
+2025-02-24T16:41:10.361Z || GET /index.js
+2025-02-24T16:41:10.361Z || GET /images/ghost2logo.png
+2025-02-24T16:41:10.360Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T16:41:10.361Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T16:41:10.361Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T16:41:10.401Z || GET /api
+2025-02-24T16:41:10.401Z || GET /api || Status: 200 || 2ms
+2025-02-24T16:42:36.879Z || GET /
+2025-02-24T16:42:36.879Z || GET / || Status: 200 || 4ms
+2025-02-24T16:42:36.913Z || GET /index.css?v=1
+2025-02-24T16:42:36.914Z || GET /index.js
+2025-02-24T16:42:36.919Z || GET /images/ghost2logo.png
+2025-02-24T16:42:36.914Z || GET /index.js || Status: 200 || 6ms
+[ERROR] 2025-02-24T16:42:36.913Z || GET /index.css?v=1 || Status: 404 || 8ms
+2025-02-24T16:42:36.919Z || GET /images/ghost2logo.png || Status: 200 || 5ms
+2025-02-24T16:42:36.969Z || GET /api
+2025-02-24T16:42:36.969Z || GET /api || Status: 200 || 3ms
+2025-02-24T16:42:45.396Z || GET / || Status: 200 || 2ms
+2025-02-24T16:42:45.396Z || GET /
+2025-02-24T16:42:45.422Z || GET /index.css?v=1
+2025-02-24T16:42:45.423Z || GET /images/ghost2logo.png
+2025-02-24T16:42:45.424Z || GET /index.js
+2025-02-24T16:42:45.423Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T16:42:45.424Z || GET /index.js || Status: 200 || 2ms
+[ERROR] 2025-02-24T16:42:45.422Z || GET /index.css?v=1 || Status: 404 || 5ms
+2025-02-24T16:42:45.429Z || GET /api
+2025-02-24T16:42:45.429Z || GET /api || Status: 200 || 0ms
+2025-02-24T16:42:48.403Z || GET /index.css?v=1
+[ERROR] 2025-02-24T16:42:48.403Z || GET /index.css?v=1 || Status: 404 || 1ms
+2025-02-24T16:43:23.297Z || GET /
+2025-02-24T16:43:23.297Z || GET / || Status: 200 || 3ms
+2025-02-24T16:43:23.330Z || GET /images/ghost2logo.png
+2025-02-24T16:43:23.331Z || GET /index.css
+2025-02-24T16:43:23.333Z || GET /index.js
+2025-02-24T16:43:23.330Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T16:43:23.331Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T16:43:23.333Z || GET /index.js || Status: 200 || 5ms
+2025-02-24T16:43:23.384Z || GET /api
+2025-02-24T16:43:23.384Z || GET /api || Status: 200 || 6ms
+2025-02-24T16:45:00.000Z || GET /
+2025-02-24T16:45:00.000Z || GET / || Status: 200 || 5ms
+2025-02-24T16:45:00.027Z || GET /index.css
+2025-02-24T16:45:00.030Z || GET /index.js
+2025-02-24T16:45:00.027Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T16:45:00.030Z || GET /index.js || Status: 200 || 0ms
+2025-02-24T16:45:00.170Z || GET /images/ghost2logo.png
+2025-02-24T16:45:00.170Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T16:45:00.180Z || GET /api
+2025-02-24T16:45:00.180Z || GET /api || Status: 200 || 2ms
+2025-02-24T17:04:00.653Z || GET /
+2025-02-24T17:04:00.653Z || GET / || Status: 200 || 3ms
+2025-02-24T17:04:00.705Z || GET /index.css
+2025-02-24T17:04:00.707Z || GET /images/ghost2logo.png
+2025-02-24T17:04:00.709Z || GET /index.js
+2025-02-24T17:04:00.705Z || GET /index.css || Status: 200 || 5ms
+2025-02-24T17:04:00.707Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T17:04:00.709Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:00.714Z || GET /api
+2025-02-24T17:04:00.714Z || GET /api || Status: 200 || 2ms
+2025-02-24T17:04:04.133Z || GET /index.css
+2025-02-24T17:04:04.133Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T17:04:19.267Z || GET /
+2025-02-24T17:04:19.267Z || GET / || Status: 200 || 2ms
+2025-02-24T17:04:19.860Z || GET /index.css
+2025-02-24T17:04:19.861Z || GET /index.js
+2025-02-24T17:04:19.860Z || GET /images/ghost2logo.png
+2025-02-24T17:04:19.860Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:19.861Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:19.860Z || GET /images/ghost2logo.png || Status: 200 || 4ms
+2025-02-24T17:04:20.457Z || GET /api
+2025-02-24T17:04:20.457Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:41.080Z || GET /
+2025-02-24T17:04:41.080Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:41.094Z || GET /index.css
+2025-02-24T17:04:41.095Z || GET /images/ghost2logo.png
+2025-02-24T17:04:41.095Z || GET /index.js
+2025-02-24T17:04:41.094Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:41.095Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:41.095Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:41.104Z || GET /api
+2025-02-24T17:04:41.104Z || GET /api || Status: 200 || 2ms
+2025-02-24T17:04:41.853Z || GET /
+2025-02-24T17:04:41.853Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:41.873Z || GET /index.js
+2025-02-24T17:04:41.875Z || GET /images/ghost2logo.png
+2025-02-24T17:04:41.874Z || GET /index.css
+2025-02-24T17:04:41.873Z || GET /index.js || Status: 200 || 3ms
+2025-02-24T17:04:41.875Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T17:04:41.874Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T17:04:41.918Z || GET /api
+2025-02-24T17:04:41.918Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:42.073Z || GET /
+2025-02-24T17:04:42.073Z || GET / || Status: 200 || 0ms
+2025-02-24T17:04:42.086Z || GET /index.css
+2025-02-24T17:04:42.086Z || GET /images/ghost2logo.png
+2025-02-24T17:04:42.087Z || GET /index.js
+2025-02-24T17:04:42.086Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:42.086Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:42.087Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:42.128Z || GET /api
+2025-02-24T17:04:42.128Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:42.333Z || GET /
+2025-02-24T17:04:42.333Z || GET / || Status: 200 || 0ms
+2025-02-24T17:04:42.348Z || GET /index.css
+2025-02-24T17:04:42.349Z || GET /index.js
+2025-02-24T17:04:42.349Z || GET /images/ghost2logo.png
+2025-02-24T17:04:42.348Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:42.349Z || GET /index.js || Status: 200 || 5ms
+2025-02-24T17:04:42.349Z || GET /images/ghost2logo.png || Status: 200 || 5ms
+2025-02-24T17:04:42.389Z || GET /api
+2025-02-24T17:04:42.389Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:42.892Z || GET /
+2025-02-24T17:04:42.892Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:42.906Z || GET /index.css
+2025-02-24T17:04:42.907Z || GET /index.js
+2025-02-24T17:04:42.908Z || GET /images/ghost2logo.png
+2025-02-24T17:04:42.906Z || GET /index.css || Status: 200 || 4ms
+2025-02-24T17:04:42.907Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:42.908Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:42.948Z || GET /api
+2025-02-24T17:04:42.948Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:43.099Z || GET /
+2025-02-24T17:04:43.099Z || GET / || Status: 200 || 0ms
+2025-02-24T17:04:43.111Z || GET /index.css
+2025-02-24T17:04:43.111Z || GET /images/ghost2logo.png
+2025-02-24T17:04:43.112Z || GET /index.js
+2025-02-24T17:04:43.111Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:43.111Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T17:04:43.112Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:43.158Z || GET /api
+2025-02-24T17:04:43.158Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:43.333Z || GET /
+2025-02-24T17:04:43.333Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:43.349Z || GET /index.css
+2025-02-24T17:04:43.349Z || GET /index.js
+2025-02-24T17:04:43.350Z || GET /images/ghost2logo.png
+2025-02-24T17:04:43.349Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:43.349Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:43.350Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T17:04:43.387Z || GET /api
+2025-02-24T17:04:43.387Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:43.524Z || GET /
+2025-02-24T17:04:43.524Z || GET / || Status: 200 || 3ms
+2025-02-24T17:04:43.540Z || GET /index.css
+2025-02-24T17:04:43.541Z || GET /index.js
+2025-02-24T17:04:43.541Z || GET /images/ghost2logo.png
+2025-02-24T17:04:43.541Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:43.541Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:43.540Z || GET /index.css || Status: 200 || 3ms
+2025-02-24T17:04:43.582Z || GET /api
+2025-02-24T17:04:43.582Z || GET /api || Status: 200 || 3ms
+2025-02-24T17:04:43.716Z || GET /
+2025-02-24T17:04:43.716Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:43.731Z || GET /index.css
+2025-02-24T17:04:43.731Z || GET /index.js
+2025-02-24T17:04:43.732Z || GET /images/ghost2logo.png
+2025-02-24T17:04:43.731Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:43.731Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:43.732Z || GET /images/ghost2logo.png || Status: 200 || 0ms
+2025-02-24T17:04:43.769Z || GET /api
+2025-02-24T17:04:43.769Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:43.904Z || GET /
+2025-02-24T17:04:43.904Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:43.918Z || GET /index.css
+2025-02-24T17:04:43.919Z || GET /index.js
+2025-02-24T17:04:43.919Z || GET /images/ghost2logo.png
+2025-02-24T17:04:43.918Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:43.919Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:43.919Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T17:04:43.963Z || GET /api
+2025-02-24T17:04:43.963Z || GET /api || Status: 200 || 7ms
+2025-02-24T17:04:44.100Z || GET /
+2025-02-24T17:04:44.100Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:44.114Z || GET /index.js
+2025-02-24T17:04:44.114Z || GET /images/ghost2logo.png
+2025-02-24T17:04:44.114Z || GET /index.css
+2025-02-24T17:04:44.114Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:44.114Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T17:04:44.114Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:44.158Z || GET /api
+2025-02-24T17:04:44.158Z || GET /api || Status: 200 || 3ms
+2025-02-24T17:04:44.299Z || GET /
+2025-02-24T17:04:44.299Z || GET / || Status: 200 || 2ms
+2025-02-24T17:04:44.315Z || GET /index.css
+2025-02-24T17:04:44.315Z || GET /index.js
+2025-02-24T17:04:44.316Z || GET /images/ghost2logo.png
+2025-02-24T17:04:44.315Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:44.315Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:44.316Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-02-24T17:04:44.355Z || GET /api
+2025-02-24T17:04:44.355Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:44.502Z || GET /
+2025-02-24T17:04:44.502Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:44.516Z || GET /index.css
+2025-02-24T17:04:44.516Z || GET /index.js
+2025-02-24T17:04:44.516Z || GET /images/ghost2logo.png
+2025-02-24T17:04:44.516Z || GET /index.css || Status: 200 || 1ms
+2025-02-24T17:04:44.516Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:44.516Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-02-24T17:04:44.556Z || GET /api
+2025-02-24T17:04:44.556Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:44.699Z || GET /
+2025-02-24T17:04:44.699Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:44.715Z || GET /index.css
+2025-02-24T17:04:44.716Z || GET /images/ghost2logo.png
+2025-02-24T17:04:44.716Z || GET /index.js
+2025-02-24T17:04:44.715Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:44.716Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:44.716Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:44.759Z || GET /api
+2025-02-24T17:04:44.759Z || GET /api || Status: 200 || 1ms
+2025-02-24T17:04:44.917Z || GET /
+2025-02-24T17:04:44.917Z || GET / || Status: 200 || 1ms
+2025-02-24T17:04:44.927Z || GET /index.css
+2025-02-24T17:04:44.928Z || GET /images/ghost2logo.png
+2025-02-24T17:04:44.927Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:44.928Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:44.930Z || GET /index.js
+2025-02-24T17:04:44.930Z || GET /index.js || Status: 200 || 2ms
+2025-02-24T17:04:44.964Z || GET /api
+2025-02-24T17:04:44.964Z || GET /api || Status: 200 || 6ms
+2025-02-24T17:04:48.484Z || GET /
+2025-02-24T17:04:48.484Z || GET / || Status: 200 || 2ms
+2025-02-24T17:04:48.503Z || GET /index.css
+2025-02-24T17:04:48.504Z || GET /images/ghost2logo.png
+2025-02-24T17:04:48.504Z || GET /index.js
+2025-02-24T17:04:48.503Z || GET /index.css || Status: 200 || 2ms
+2025-02-24T17:04:48.504Z || GET /index.js || Status: 200 || 1ms
+2025-02-24T17:04:48.504Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-02-24T17:04:48.511Z || GET /api
+2025-02-24T17:04:48.511Z || GET /api || Status: 200 || 2ms
+2025-03-11T13:25:38.322Z || GET /
+2025-03-11T13:25:38.322Z || GET / || Status: 200 || 7ms
+2025-03-11T13:25:38.380Z || GET /index.css
+2025-03-11T13:25:38.381Z || GET /images/ghost2logo.png
+2025-03-11T13:25:38.381Z || GET /index.js
+2025-03-11T13:25:38.380Z || GET /index.css || Status: 200 || 3ms
+2025-03-11T13:25:38.381Z || GET /index.js || Status: 200 || 4ms
+2025-03-11T13:25:38.381Z || GET /images/ghost2logo.png || Status: 200 || 5ms
+2025-03-11T13:25:38.425Z || GET /api
+2025-03-11T13:25:38.425Z || GET /api || Status: 200 || 4ms
+2025-03-11T13:25:38.526Z || GET /favicon.ico
+[ERROR] 2025-03-11T13:25:38.526Z || GET /favicon.ico || Status: 404 || 2ms
+2025-03-11T13:25:41.861Z || GET /sightings.html
+2025-03-11T13:25:41.861Z || GET /sightings.html || Status: 200 || 4ms
+2025-03-11T13:25:41.889Z || GET /index.css
+2025-03-11T13:25:41.891Z || GET /images/ghost2logo.png
+2025-03-11T13:25:41.891Z || GET /index.js
+2025-03-11T13:25:41.889Z || GET /index.css || Status: 200 || 3ms
+2025-03-11T13:25:41.891Z || GET /images/ghost2logo.png || Status: 200 || 1ms
+2025-03-11T13:25:41.891Z || GET /index.js || Status: 200 || 3ms
+2025-03-11T13:25:41.898Z || GET /api
+2025-03-11T13:25:41.898Z || GET /api || Status: 200 || 1ms
+2025-03-11T13:25:51.530Z || GET /upload-sighting.html
+2025-03-11T13:25:51.530Z || GET /upload-sighting.html || Status: 200 || 2ms
+2025-03-11T13:25:51.556Z || GET /index.css
+2025-03-11T13:25:51.558Z || GET /images/ghost2logo.png
+2025-03-11T13:25:51.559Z || GET /upload-sighting.js
+2025-03-11T13:25:51.559Z || GET /index.js
+2025-03-11T13:25:51.556Z || GET /index.css || Status: 200 || 3ms
+2025-03-11T13:25:51.558Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-03-11T13:25:51.559Z || GET /upload-sighting.js || Status: 200 || 3ms
+2025-03-11T13:25:51.559Z || GET /index.js || Status: 200 || 5ms
+2025-03-11T13:25:51.566Z || GET /api
+2025-03-11T13:25:51.566Z || GET /api || Status: 200 || 0ms
+2025-03-11T16:56:43.005Z || GET /
+2025-03-11T16:56:43.005Z || GET / || Status: 200 || 4ms
+2025-03-11T16:56:43.062Z || GET /images/ghost2logo.png
+2025-03-11T16:56:43.063Z || GET /index.css
+2025-03-11T16:56:43.064Z || GET /index.js
+2025-03-11T16:56:43.062Z || GET /images/ghost2logo.png || Status: 200 || 2ms
+2025-03-11T16:56:43.063Z || GET /index.css || Status: 200 || 2ms
+2025-03-11T16:56:43.064Z || GET /index.js || Status: 200 || 2ms
+2025-03-11T16:56:43.127Z || GET /api
+2025-03-11T16:56:43.127Z || GET /api || Status: 200 || 1ms
+2025-03-11T16:56:43.164Z || GET /favicon.ico
+[ERROR] 2025-03-11T16:56:43.164Z || GET /favicon.ico || Status: 404 || 1ms
+2025-03-11T16:56:46.077Z || GET /sightings.html
+2025-03-11T16:56:46.077Z || GET /sightings.html || Status: 200 || 4ms
+2025-03-11T16:56:46.098Z || GET /index.css
+2025-03-11T16:56:46.099Z || GET /images/ghost2logo.png
+2025-03-11T16:56:46.100Z || GET /index.js
+2025-03-11T16:56:46.098Z || GET /index.css || Status: 200 || 3ms
+2025-03-11T16:56:46.099Z || GET /images/ghost2logo.png || Status: 200 || 3ms
+2025-03-11T16:56:46.100Z || GET /index.js || Status: 200 || 3ms
+2025-03-11T16:56:46.105Z || GET /api
+2025-03-11T16:56:46.105Z || GET /api || Status: 200 || 1ms
