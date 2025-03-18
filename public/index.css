@@ -6,9 +6,25 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
+    background-color: #333;
+    ;
     color: #333;
     height: 100vh;
     gap: 2em;
+    position: relative;
+}
+
+body::before {
+    position: absolute;
+    content: "";
+    background-image: url('./images/ghostbg.jpg');
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    opacity: 0.2;
 }
 
 
@@ -16,35 +32,32 @@ body {
 /* fonts */
 
 h1 {
-    font-size: 2rem;
-    margin: 0;
+    font-size: 1.5rem;
+    /* margin: 0; */
 }
 
 
 h2 {
     margin: 0;
-    margin-top: -15px;
+    /* margin-top: -10px; */
     font-size: 1em;
-}
-@media (max-width: 400px) {
-    body {
-        background-color: darkgreen;
-    }
-    h1 {
-    font-size: 1.3rem;
-    margin: 0;
-}
-h2 {
-    margin-top: unset;
-    font-size: .9em;
-}
+    /* color: crimson; */
 }
 
-@media (max-width: 320px) {
-    body {
-        background-color: darkorchid;
+@media (max-width: 400px) {
+    h1 {
+        /* font-size: 1.3rem; */
+        margin: 0;
+    }
+
+    h2 {
+        margin-top: unset;
+        font-size: .9em;
     }
 }
+
+@media (max-width: 320px) {}
+
 h3 {
     font-size: 2em;
 }
@@ -56,9 +69,15 @@ h2 {
 
 h1,
 nav a,
+.sub-heading,
 h2,
-h3 {
+h3, 
+footer p {
     font-family: "Metal Mania", serif;
+}
+
+h1, .sub-heading,h2, footer p {
+        letter-spacing: .13rem;
 }
 
 nav a {
@@ -85,12 +104,31 @@ p {
 
 /* sections */
 
-.site-header,
-footer {
-    background-color: #333;
+.site-header {
+    /* background-color: #333; */
     color: #fff;
     text-align: center;
-    padding: 1rem 0;
+    padding: .3rem 0;
+}
+
+main {
+    display: flex;
+    margin: 0 4em;
+    margin-top: -30px;
+    justify-content: center;
+}
+
+.hero-title {
+    font-size: 2.3em;
+    text-align: center;
+}
+
+
+footer {
+    /* background-color: #333; */
+    color: #fff;
+    text-align: center;
+    padding: .1rem 0;
 }
 
 .site-header {
