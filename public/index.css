@@ -1,3 +1,8 @@
+/* 
+2. font overall
+3. tidy the css
+*/
+
 body {
     display: flex;
     flex-direction: column;
@@ -8,7 +13,7 @@ body {
     background-color: #f9f9f9;
     background-color: #333;
     ;
-    color: #333;
+    color: #f9f9f9;
     height: 100vh;
     gap: 2em;
     position: relative;
@@ -40,7 +45,7 @@ h1 {
 h2 {
     margin: 0;
     /* margin-top: -10px; */
-    font-size: 1em;
+    font-size: 2em;
     /* color: crimson; */
 }
 
@@ -74,6 +79,9 @@ h2,
 h3, 
 footer p {
     font-family: "Metal Mania", serif;
+    font-family: "Poppins", serif;
+    font-family: "Barlow Condensed", serif;
+    font-family: "Frijole", serif;
 }
 
 h1, .sub-heading,h2, footer p {
@@ -81,7 +89,7 @@ h1, .sub-heading,h2, footer p {
 }
 
 nav a {
-    color: #333;
+    color: #fff;
     text-decoration: none;
     margin: 0 .2rem;
     letter-spacing: 1.2px;
@@ -121,6 +129,8 @@ main {
 .hero-title {
     font-size: 2.3em;
     text-align: center;
+    font-weight: 200;
+    max-width: 500px;
 }
 
 
@@ -145,6 +155,9 @@ nav.show {
 }
 
 header nav {
+    position: absolute;
+    top: 70px; 
+    right: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -153,6 +166,7 @@ header nav {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.3s ease-in-out;
+    background-color: #333;
 }
 
 .current::before {
@@ -180,6 +194,7 @@ header nav {
 .product-card h3 {
     margin: 1rem;
     font-size: 1.2rem;
+    color: #333;
 }
 
 .product-card p {
@@ -244,11 +259,13 @@ textarea,
 .menu-btn {
     border: none;
     background-color: transparent;
-    font-size: 2em;
+    font-size: 3em;
     transform: rotate(90deg);
     color: white;
     min-width: unset;
     margin: 0 1em 0 auto;
+    font-family: 'Frijole', serif;
+    padding: 0;
 }
 
 .menu-btn:hover {
