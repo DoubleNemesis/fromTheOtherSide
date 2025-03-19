@@ -196,27 +196,45 @@ label {
     display: block;
     margin-top: 10px;
     font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+input::placeholder, textarea::placeholder, input[type="datetime-local"] {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #666;
+}
+
+input {
+    height: 50px;
+    border: none;
+}
+
+textarea, input {
+    border-radius: 5px;
 }
 
 input, textarea, .submit-btn {
     width: 100%;
     min-width: 300px;
-    padding: 8px;
+    padding: 12px;
     margin-top: 5px;
     box-sizing: border-box;
 }
 
 .submit-btn {
     margin-top: 15px;
-    background-color: darkgreen;
+    background-color: deepskyblue;
     color: white;
     border: none;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 24px;
+    border-radius: 5px;
 }
 
 .submit-btn:hover {
-    background-color: #45a049;
+    background-color: rgb(180, 225, 240);
+    color: midnightblue
 }
 
 /* ============================== */
