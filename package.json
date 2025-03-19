@@ -1,6 +1,6 @@
 {
-  "scripts": {
-    "start": "node server.js"
+  "scripts": {  
+    "start": "nodemon server.js"
   },
   "type": "module",
   "name": "s0kvic1ga4",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "nodemon": "^3.1.9",
     "sanitize-html": "^2.14.0"
   }
-}
+}  
