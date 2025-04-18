@@ -20,7 +20,7 @@ body {
     background-color: #333;
     color: #f9f9f9;
     min-height: 100vh;
-    /* gap: 2em; */
+    gap: 2em;
 }
 
 /* Background Image Overlay */
@@ -35,39 +35,17 @@ body::before {
     right: 0;
     bottom: 0;
     z-index: -1;
-    opacity: 0.15;
+    opacity: 0.2;
     background-attachment: fixed;
-    /* filter: blur(1px); */
+    filter: blur(1px);
 }
 
 /* ============================== */
 /*            TYPOGRAPHY          */
 /* ============================== */
 
-h1, h2, h3 {
+h1, h2, h3, nav a, .sub-heading, footer p {
     font-family: "Frijole", serif;
-}
-
-a {
-    color: white;
-}
-
-a:hover {
-    text-decoration: underline;
-    color: deepskyblue;
-}
-
-a:focus {
-    outline: 3px solid #fff;
-    outline-offset: 2px;
-    /* background-color: white; */
-    color: #222;
-}
-
-a:active {
-    /* background-color: #444; */
-    color: deepskyblue;
-    transform: scale(0.98);
 }
 
 h1 {
@@ -90,66 +68,26 @@ p {
 }
 
 .site-title {
-    font-size: clamp(2rem, 8.333vw, 3.5rem);
+    font-size: 2.5em;
     font-family: "Frijole", serif;
     color: white;
     text-decoration: none;
-    text-align: center;
+}
+
+a {
+    color: white;
     margin: 0;
 }
 
-.site-title-page {
-    font-size: clamp(.7rem, 4.999vw, 1.1rem);
-    font-family: "Frijole", serif;
-    color: white;
-    text-decoration: none;
-    text-align: center;
-    margin: 0 0 1em 0;
-}
-
-.page-title {
-    font-size: clamp(1rem, 6.333vw, 2.5rem);
-    font-family: "Frijole", serif;
-    color: white;
-    text-decoration: none;
-    text-align: center;
-    margin: 0 1em;
-}
-
-.hero-title {
-    font-size: clamp(1rem, 5.333vw, 2.5rem);
-    text-align: center;
-    font-weight: 200;
-    max-width: 500px;
-}
-
-footer p{
-    font-size: 0.9rem;
-    text-align: center;
-}
-
-
-
-
 /* Responsive Font Sizes */
-@media (max-width: 320px) {
-    body {
-        /* border:1px solid red; */
+@media (max-width: 400px) {
+    h1 {
+        margin: 0;
     }
-    /* .site-title {
-        font-size: 1.7em;
-        text-align: center;
-    } */
 
-    .hero-title {
-        font-size: 1.3em;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    h2 {
+        font-size: .9em;
     }
-    footer p{
-    font-size: 0.7em;
-    text-align: center;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 }
 
 
@@ -159,10 +97,11 @@ footer p{
 
 nav a {
     color: #fff;
-    /* text-decoration: none; */
+    text-decoration: none;
+    margin: 0 .2rem;
     letter-spacing: 1.2px;
     padding: 0 .5em;
-    font-size: .9em;
+    font-size: 1.5em;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -190,23 +129,20 @@ nav a:active {
 
 
 /* Responsive Navigation Menu */
-nav {
-    /* position: absolute; */
-    /* top: 0; */
-    /* right: 0; */
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* align-items: flex-end; */
-    /* justify-content: flex-end; */
-    /* margin-top: .5em;
-    margin-right: .5em; */
-    /* gap: .1em; */
-    /* max-width: 0; */
-    /* height: 100vh; */
-    /* overflow: hidden; */
-    /* transition: max-width 0.3s ease-in-out, background-color 0.3s ease-in-out; */
-    /* z-index: 1; */
-    /* padding: 6em 2em 0 1em; */
+header nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    max-width: 0;
+    height: 100vh;
+    overflow: hidden;
+    transition: max-width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+    z-index: 1;
+    padding: 6em 2em 0 1em;
 }
 
 nav.show {
@@ -216,7 +152,6 @@ nav.show {
 
 nav ul {
     list-style-type: none;
-    display: flex;
 }
 
 /* ============================== */
@@ -229,12 +164,10 @@ nav ul {
     font-size: 3em;
     transform: rotate(90deg);
     color: white;
-    margin: 0 .3em 0 auto;
+    margin: 0 1em 0 auto;
     font-family: 'Frijole', serif;
     padding: 0 .2em;
     z-index: 2;
-    /* align-self: flex-end; */
-    display: none;
 }
 
 .menu-btn:hover {
@@ -265,24 +198,17 @@ nav ul {
 /*         HEADER & FOOTER        */
 /* ============================== */
 
-
 .site-header {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     gap: 2em;
-    padding: 1.5em 1.5em 0 1.5em;
-}
-
-.top-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 2em;
-    padding: 1em 1em 0 2em;
+    padding: 1.5em 2em;
 }
 
 footer {
+    font-size: 0.9rem;
+    text-align: center;
     padding: .4rem 0;
     width: 100%;
     color: #fff;
@@ -293,11 +219,7 @@ footer {
 /* ============================== */
 
 img {
-    width: 6vw;
-    max-width: 40px;
-    opacity: 0.7;
-    /* padding-left: 1em; */
-    /* display: none; */
+    max-width: 50px;
 }
 
 /* ============================== */
@@ -315,11 +237,6 @@ main.sightings {
     align-items: center;
 }
 
-main.form-container {
-    flex-direction: column;
-    align-items: center;
-}
-
 .cards-container {
     display: flex;
     flex-wrap: wrap;
@@ -327,25 +244,38 @@ main.form-container {
     justify-content: center;
     gap: 1rem;
     padding: 0 1em;
-    margin: 2em 0;
+    margin: 1em 0;
 }
+
+/* ============================== */
+/*           HOME PAGE            */
+/* ============================== */
+
+.hero-title {
+    font-size: 2.3em;
+    text-align: center;
+    font-weight: 200;
+    max-width: 500px;
+}
+
 
 /* ============================== */
 /*        FORM STYLING            */
 /* ============================== */
 
 form {
-    margin-top: 1.5em;
     background-color: #333;
+    margin: 0 auto;
     width: 100%;
     max-width: 800px;
     text-align: left;
+    padding: 0 1em;
     border-radius: 10px;
     gap: 0 1em;
     padding: 2em;
     display: grid;
-    /* border: 1px solid red; */
     grid-template-areas:
+        "ft ft ft"
         "lt ld ld"
         "it id id"
         "lm id id"
@@ -354,30 +284,6 @@ form {
         "il id id"
         "sb sb sb"
         "fm fm fm";
-}
-
-@media (max-width: 650px) {
-    /* body {border: 1px solid blue} */
-
-    main.form-container {
-    flex-direction: column;
-    align-items: center;
-    margin: 0 auto;
-}
-
-    form {
-        grid-template-areas:
-        "lt"
-        "it"
-        "lm"
-        "im"
-        "ll"
-        "il"
-        "ld"
-        "id"
-        "sb"
-        "fm";   
-    }
 }
 
 .form-title {
@@ -511,9 +417,7 @@ textarea {
     background: #fff;
     border-radius: 3px;
     box-shadow: 0 4px 60px rgba(0, 0, 0, 0.1);
-    min-width: 320px;
-    max-width: 350px;
-    /* width: 350px; */
+    width: 350px;
     padding: 1.4rem;
     overflow: hidden;
     display: flex;

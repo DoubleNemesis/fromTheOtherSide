@@ -1,0 +1,307 @@
+/* ============================== */
+/*         GLOBAL STYLES         */
+/* ============================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 2em;
+    min-height: 100vh;
+    position: relative;
+    background-color: #333;
+    color: #f9f9f9;
+    line-height: 1.6;
+}
+
+/* Background Image Overlay */
+body::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url('./images/ghostbg.jpg') center/cover no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+}
+
+/* ============================== */
+/*         TYPOGRAPHY            */
+/* ============================== */
+
+h1, h2, h3, nav a, .sub-heading, footer p {
+    font-family: "Frijole", serif;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #dadfdb;
+    letter-spacing: 0.13rem;
+}
+
+h2 {
+    color: #dadfdb;
+    letter-spacing: 0.13rem;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 100%;
+}
+
+@media (max-width: 400px) {
+    h1 {
+        margin: 0;
+    }
+    h2 {
+        font-size: 0.9em;
+    }
+}
+
+/* ============================== */
+/*       NAVIGATION MENU         */
+/* ============================== */
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.2rem;
+    padding: 0 0.5em;
+    letter-spacing: 1.2px;
+    font-size: 1.5em;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav a:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+.current::before {
+    content: "> ";
+}
+
+header nav {
+    position: absolute;
+    top: 0; right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 6em 2em 0 1em;
+    height: 100vh;
+    max-width: 0;
+    overflow: hidden;
+    transition: max-width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+    z-index: 1;
+}
+
+nav.show {
+    background-color: #333;
+    max-width: 500px;
+}
+
+/* ============================== */
+/*      HEADER & FOOTER          */
+/* ============================== */
+
+.site-header {
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    padding: 1.5em 2em;
+}
+
+footer {
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 0.1rem 0;
+    width: 100%;
+    color: #fff;
+}
+
+/* ============================== */
+/*         MAIN CONTENT          */
+/* ============================== */
+
+main {
+    display: flex;
+    justify-content: center;
+    margin: 0 4em;
+}
+
+.hero-title {
+    font-size: 2.3em;
+    text-align: center;
+    font-weight: 200;
+    max-width: 500px;
+}
+
+/* ============================== */
+/*         CARD LAYOUT           */
+/* ============================== */
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0 1em;
+    margin: 1em 0;
+}
+
+.sighting-card {
+    position: relative;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 4px 60px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    padding: 1.4rem 1.4rem 0.4rem;
+}
+
+.sighting-card h3 {
+    font-size: 1.2rem;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+    margin: 0.2em 0;
+}
+
+.sighting-card p {
+    color: #555;
+}
+
+.card-details {
+    font-size: 0.8rem;
+    color: #666;
+    margin: 0;
+}
+
+.sighting-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.card-details::after {
+    content: "";
+    position: absolute;
+    bottom: 1.5em;
+    left: 0;
+    width: 100%;
+    height: 2em;
+    background: linear-gradient(to bottom, transparent, #fff);
+    pointer-events: none;
+}
+
+/* ============================== */
+/*         FORM STYLING          */
+/* ============================== */
+
+.form-container {
+    text-align: center;
+    margin-bottom: auto;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: left;
+    padding: 0 1em;
+}
+
+label {
+    display: block;
+    margin-top: 1em;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.form-inner-section {
+    display: flex;
+    gap: 1em;
+    width: 100%;
+    padding-top: 1px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+textarea {
+    padding-bottom: 10px;
+    line-height: 1.4;
+}
+
+input::placeholder, textarea::placeholder {
+    font-size: 16px;
+    color: #666;
+}
+
+input[type="datetime-local"] {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #666;
+}
+
+.submit-btn {
+    margin-top: 15px;
+    padding: 12px;
+    background-color: rgb(180, 225, 240);
+    color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.submit-btn:hover {
+    background-color: deepskyblue;
+}
+
+/* ============================== */
+/*         MENU BUTTON           */
+/* ============================== */
+
+.menu-btn {
+    background: transparent;
+    border: none;
+    font-size: 3em;
+    color: white;
+    margin: 0 1em 0 auto;
+    font-family: 'Frijole', serif;
+    transform: rotate(90deg);
+    padding: 0;
+    z-index: 2;
+}
+
+.menu-btn:hover {
+    color: deepskyblue;
+}
+
+.menu-btn.show {
+    transform: rotate(180deg);
+}
+
+/* ============================== */
+/*         IMAGE STYLES          */
+/* ============================== */
+
+img {
+    max-width: 50px;
+}

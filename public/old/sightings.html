@@ -8,32 +8,36 @@
     <link rel="stylesheet" href="/index.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Frijole&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Frijole&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <title>From the Other Side: Sightings</title>
 </head>
 
 <body>
     <header>
-        <div class="top-header">
-            <img src="/images/candle-logo.png" alt="candle" class="From the Other Side logo">
-            <nav id="main-navigation" aria-label="main navigation" role="navigation">
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/sightings.html">Read</a></li>
-                    <li><a href="/upload-sighting.html">Upload</a></li>
-                </ul>
-            </nav>
-        </div>
         <div class="site-header">
-            <a href="/" class="site-title-page">From the Other Side</a>
+            <img src="./images/candle-logo.png" alt="candle" class="From the Other Side logo">
+            <a href="/" class="site-title">From the Other Side</a>
+            <button 
+                id="menu-toggle-btn" 
+                class="menu-btn" 
+                aria-label="Toggle navigation menu" 
+                aria-expanded="false"
+                aria-controls="main-navigation">
+                |||
+            </button>
         </div>
+        <nav id="main-navigation" aria-label="main navigation" role="navigation" inert>
+            <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/sightings.html" class="current">Sightings</a></li>
+            <li><a href="/upload-sighting.html">Add a Sighting</a></li>
+            </ul>
+        </nav>
     </header>
     <main class="sightings">
-        <h1 class="page-title">Sightings</h1>
+        <h1 class="hero-title">Sightings</h1>
         <div class="cards-container">
-            <!-- <article class="product-card" aria-labelledby="product-name">
+        <!-- <article class="product-card" aria-labelledby="product-name">
             <h3 id="product-name">Exeter, UK</h3>
             <p>I was walking through town and went to cross the road without checking properly. An old lady
                 across the street screamed at me to look out. I snapped out of my day dream, turned, and saw a bus
@@ -53,7 +57,7 @@
             <p>Last year, I stayed at a bed-and-breakfast that dated back to the 1800s. Late at night, I woke up to the sound of soft footsteps in my room. Assuming it was the owner checking on the fireplace, I sat up to say hello, but there was no one there. Just as I was about to lie back down, I noticed an old rocking chair in the corner of the room moving gently back and forth. It stopped suddenly, as if someone had been sitting there and stood up. In the morning, I mentioned it to the owner, who said the chair belonged to the original occupant, a widow who used to knit by the fire every night—and that I wasn’t the first guest to see her..</p>
             <p>7th Jan 2025</p>
         </article> -->
-        </div>
+        </div>  
     </main>
 
     <footer>

@@ -1,5 +1,5 @@
 try {
-  const data = await fetch("/data.json");
+  const data = await fetch("/api");
   const response = await data.json();
   console.log(response);
   renderCards(response);
@@ -25,24 +25,24 @@ function renderCards(cardsData) {
 
 // toggle menu
 
-// document
-//   .getElementById("menu-toggle-btn")
-//   .addEventListener("click", function () {
-//     const menuBtn = document.getElementsByClassName("menu-btn")[0];
-//     const nav = document.getElementsByTagName("nav")[0];
+document
+  .getElementById("menu-toggle-btn")
+  .addEventListener("click", function () {
+    const menuBtn = document.getElementsByClassName("menu-btn")[0];
+    const nav = document.getElementsByTagName("nav")[0];
 
-//     menuBtn.classList.toggle("show");
-//     nav.classList.toggle("show");
+    menuBtn.classList.toggle("show");
+    nav.classList.toggle("show");
 
-//     const isExpanded = menuBtn.classList.contains("show");
-//     menuBtn.setAttribute("aria-expanded", isExpanded ? "true" : "false");
+    const isExpanded = menuBtn.classList.contains("show");
+    menuBtn.setAttribute("aria-expanded", isExpanded ? "true" : "false");
 
-//     if (isExpanded) {
-//       nav.removeAttribute("inert");
-//     } else {
-//       nav.setAttribute("inert", "");
-//     }
-//   });
+    if (isExpanded) {
+      nav.removeAttribute("inert");
+    } else {
+      nav.setAttribute("inert", "");
+    }
+  });
 
 // handle card expand
 document.querySelectorAll(".read-more-btn").forEach((button) => {
