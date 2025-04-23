@@ -20,7 +20,6 @@ body {
     background-color: #333;
     color: #f9f9f9;
     min-height: 100vh;
-    /* gap: 2em; */
 }
 
 /* Background Image Overlay */
@@ -37,7 +36,6 @@ body::before {
     z-index: -1;
     opacity: 0.15;
     background-attachment: fixed;
-    /* filter: blur(1px); */
 }
 
 /* ============================== */
@@ -60,12 +58,10 @@ a:hover {
 a:focus {
     outline: 3px solid #fff;
     outline-offset: 2px;
-    /* background-color: white; */
     color: #222;
 }
 
 a:active {
-    /* background-color: #444; */
     color: deepskyblue;
     transform: scale(0.98);
 }
@@ -143,38 +139,12 @@ footer p{
     text-align: center;
 }
 
-
-
-
-/* Responsive Font Sizes */
-@media (max-width: 320px) {
-    body {
-        /* border:1px solid red; */
-    }
-    /* .site-title {
-        font-size: 1.7em;
-        text-align: center;
-    } */
-
-    .hero-title {
-        font-size: 1.3em;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-    footer p{
-    font-size: 0.7em;
-    text-align: center;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-}
-
-
 /* ============================== */
 /*         NAVIGATION MENU        */
 /* ============================== */
 
 nav a {
     color: #fff;
-    /* text-decoration: none; */
     letter-spacing: 1.2px;
     padding: 0 .5em;
     font-size: .9em;
@@ -209,51 +179,8 @@ nav ul {
 }
 
 /* ============================== */
-/*       MENU BUTTON STYLING      */
-/* ============================== */
-
-.menu-btn {
-    border: none;
-    background-color: transparent;
-    font-size: 3em;
-    transform: rotate(90deg);
-    color: white;
-    margin: 0 .3em 0 auto;
-    font-family: 'Frijole', serif;
-    padding: 0 .2em;
-    z-index: 2;
-    /* align-self: flex-end; */
-    display: none;
-}
-
-.menu-btn:hover {
-    color: deepskyblue;
-}
-
-/* Focus - keyboard accessibility */
-.menu-btn:focus {
-    outline: 1px solid #fff;
-}
-
-/* Active - button being clicked */
-.menu-btn:active {
-    transform: scale(1.25);
-    color: deepskyblue;
-}
-
-/* Active click while menu is open */
-.menu-btn.show:active {
-    transform: rotate(90deg) scale(1.25);
-}
-
-.menu-btn.show {
-    transform: rotate(180deg);
-}
-
-/* ============================== */
 /*         HEADER & FOOTER        */
 /* ============================== */
-
 
 .site-header {
     display: flex;
@@ -281,12 +208,10 @@ footer {
 /*         LOGO IMAGE STYLES      */
 /* ============================== */
 
-img {
+.logo-img {
     width: 6vw;
     max-width: 40px;
     opacity: 0.7;
-    /* padding-left: 1em; */
-    /* display: none; */
 }
 
 /* ============================== */
@@ -333,7 +258,6 @@ form {
     gap: 0 1em;
     padding: 2em;
     display: grid;
-    /* border: 1px solid red; */
     grid-template-areas:
         "lt ld ld"
         "it id id"
@@ -346,7 +270,6 @@ form {
 }
 
 @media (max-width: 650px) {
-    /* body {border: 1px solid blue} */
 
     main.form-container {
     flex-direction: column;
@@ -502,8 +425,7 @@ textarea {
     box-shadow: 0 4px 60px rgba(0, 0, 0, 0.1);
     min-width: 320px;
     max-width: 350px;
-    height: 250px;
-    /* width: 350px; */
+    min-height: 250px;
     padding: 1.4rem;
     overflow: hidden;
     display: flex;
@@ -529,7 +451,6 @@ textarea {
 
 .sighting-text-wrapper {
     max-height: 8.4em;
-    /* enough for 5 lines of text, roughly */
     overflow: hidden;
     position: relative;
     transition: max-height 0.4s ease;
@@ -538,18 +459,17 @@ textarea {
 .sighting-text {
     display: -webkit-box;
     -webkit-line-clamp: 5;
+    line-clamp: 5;
     -webkit-box-orient: vertical;
     overflow: hidden;
     position: relative;
     text-overflow: clip;
 }
 
-/* The fade-out gradient effect */
 .sighting-text::after {
     content: "";
     position: absolute;
     bottom: 0;
-    /* adjust if needed */
     left: 0;
     width: 100%;
     height: 1.6em;
@@ -565,6 +485,7 @@ textarea {
 
 .sighting-card.expanded .sighting-text {
     -webkit-line-clamp: unset;
+    line-clamp: unset;
     display: block;
     overflow: visible;
 }
@@ -575,7 +496,6 @@ textarea {
 
 .sighting-card.expanded .sighting-text-wrapper {
     max-height: 1000px;
-    /* large enough to show full content */
 }
 
 .read-more-btn {
