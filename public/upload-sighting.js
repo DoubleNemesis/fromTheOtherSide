@@ -1,12 +1,18 @@
 const form = document.getElementById("eventForm");
+const formMessageText = document.getElementsByClassName("form-message-text")[0];
 
 form.addEventListener("submit", async function (event) {
-  event.preventDefault(); // Prevent the default form submission
-  
+  event.preventDefault();
+
   const location = document.getElementById("location").value;
   const text = document.getElementById("details").value;
   const title = document.getElementById("title").value;
-  
+
+  if (!location || !text || !title) {
+    formMessageText.textContent = `Please complete all fields!`;
+    return;
+  }
+
   const isoDateString = document.getElementById("datetime").value;
   // Convert the string to a JavaScript Date object
   const date = new Date(isoDateString);
@@ -20,8 +26,7 @@ form.addEventListener("submit", async function (event) {
     hour12: false,
   };
   const readableDate = date.toLocaleString("en-GB", options);
-  
-  
+
   // Get form data
   const formData = {
     location: location,
@@ -29,22 +34,28 @@ form.addEventListener("submit", async function (event) {
     text: text,
     title: title,
   };
-  
+
   try {
     // Send form data using fetch API
-    const response = await fetch("./api/submit", {
+    const response = await fetch("./api", {
       method: "POST",
       body: JSON.stringify(formData),
     });
-    console.log(response, response.ok, response.statusText);
     if (response.ok) {
-      renderOutcome(true);
+      formMessageText.textContent = "Your sighting was uploaded. View it "
+      const link = document.createElement("a")
+      link.href = "./sightings.html"
+      link.textContent = "here"
+      formMessageText.appendChild(link)
+      formMessageText.append(".")
+      form.reset()
     } else {
-      renderOutcome(false);
+      formMessageText.textContent = `The server Ghosted you(!). Please try again.`;
       console.error("Server Error:", response.statusText);
     }
   } catch (error) {
-    renderOutcome(false);
+    formMessageText.textContent = `Serious ghouls! Please try again.`;
+    // render error message
     console.error("Error:", error);
   }
 });
@@ -53,11 +64,11 @@ function renderOutcome(outcome = false) {
   const formMessage = document.getElementsByClassName("form-message")[0];
   formMessage.innerHTML = "";
   if (outcome) {
-    form.reset()
+    form.reset();
   }
   const messageToRender = outcome
     ? '<p>Your sighting was uploaded. View it <a href="./sightings.html">here</a>.</p>'
-    : '<p>The server Ghosted you(!). Please try again.</p>';
-    formMessage.innerHTML = messageToRender
+    : "<p>The server Ghosted you(!). Please try again.</p>";
+  formMessage.innerHTML = messageToRender;
   // modal with message
 }

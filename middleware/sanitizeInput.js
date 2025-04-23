@@ -14,7 +14,7 @@ function sanitizeFields(data) {
     }, {});
 }
 
-export default function sanitizeInput(req, res, next) {
+export function sanitizeInput(req, res, next) {
     console.log('sanitization started')
         try {
             req.body = sanitizeFields(req.body);
