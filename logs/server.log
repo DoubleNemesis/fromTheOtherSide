@@ -10554,3 +10554,245 @@
 2025-04-17T19:55:00.671Z || GET /images/ghostbg.jpg || Status: 200 || 2ms
 2025-04-17T19:55:00.674Z || GET /api
 2025-04-17T19:55:00.674Z || GET /api || Status: 200 || 1ms
+2025-04-18T11:41:39.305Z || GET /upload-sighting.html
+2025-04-18T11:41:39.305Z || GET /upload-sighting.html || Status: 200 || 4ms
+2025-04-18T11:41:39.343Z || GET /index.css
+2025-04-18T11:41:39.344Z || GET /images/candle-logo.png
+2025-04-18T11:41:39.345Z || GET /upload-sighting.js
+2025-04-18T11:41:39.346Z || GET /index.js
+2025-04-18T11:41:39.343Z || GET /index.css || Status: 200 || 3ms
+2025-04-18T11:41:39.344Z || GET /images/candle-logo.png || Status: 200 || 2ms
+2025-04-18T11:41:39.345Z || GET /upload-sighting.js || Status: 200 || 2ms
+2025-04-18T11:41:39.346Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:41:39.351Z || GET /images/ghostbg.jpg
+2025-04-18T11:41:39.351Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:41:39.370Z || GET /data.json
+[ERROR] 2025-04-18T11:41:39.370Z || GET /data.json || Status: 404 || 2ms
+2025-04-18T11:41:47.256Z || GET /sightings.html
+2025-04-18T11:41:47.256Z || GET /sightings.html || Status: 200 || 1ms
+2025-04-18T11:41:47.275Z || GET /index.css
+2025-04-18T11:41:47.276Z || GET /images/candle-logo.png
+2025-04-18T11:41:47.277Z || GET /index.js
+2025-04-18T11:41:47.275Z || GET /index.css || Status: 200 || 2ms
+2025-04-18T11:41:47.276Z || GET /images/candle-logo.png || Status: 200 || 3ms
+2025-04-18T11:41:47.277Z || GET /index.js || Status: 200 || 3ms
+2025-04-18T11:41:47.284Z || GET /data.json
+2025-04-18T11:41:47.285Z || GET /images/ghostbg.jpg
+[ERROR] 2025-04-18T11:41:47.284Z || GET /data.json || Status: 404 || 1ms
+2025-04-18T11:41:47.285Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:41:51.591Z || GET /upload-sighting.html
+2025-04-18T11:41:51.591Z || GET /upload-sighting.html || Status: 200 || 1ms
+2025-04-18T11:41:51.619Z || GET /index.css
+2025-04-18T11:41:51.620Z || GET /images/candle-logo.png
+2025-04-18T11:41:51.621Z || GET /upload-sighting.js
+2025-04-18T11:41:51.621Z || GET /index.js
+2025-04-18T11:41:51.619Z || GET /index.css || Status: 200 || 2ms
+2025-04-18T11:41:51.620Z || GET /images/candle-logo.png || Status: 200 || 2ms
+2025-04-18T11:41:51.621Z || GET /upload-sighting.js || Status: 200 || 3ms
+2025-04-18T11:41:51.621Z || GET /index.js || Status: 200 || 4ms
+2025-04-18T11:41:51.629Z || GET /data.json
+2025-04-18T11:41:51.630Z || GET /images/ghostbg.jpg
+[ERROR] 2025-04-18T11:41:51.629Z || GET /data.json || Status: 404 || 1ms
+2025-04-18T11:41:51.630Z || GET /images/ghostbg.jpg || Status: 200 || 2ms
+2025-04-18T11:41:55.673Z || GET /sightings.html
+2025-04-18T11:41:55.673Z || GET /sightings.html || Status: 200 || 1ms
+2025-04-18T11:41:55.693Z || GET /index.css
+2025-04-18T11:41:55.694Z || GET /images/candle-logo.png
+2025-04-18T11:41:55.694Z || GET /index.js
+2025-04-18T11:41:55.693Z || GET /index.css || Status: 200 || 2ms
+2025-04-18T11:41:55.694Z || GET /images/candle-logo.png || Status: 200 || 2ms
+2025-04-18T11:41:55.694Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:41:55.700Z || GET /data.json
+2025-04-18T11:41:55.700Z || GET /images/ghostbg.jpg
+[ERROR] 2025-04-18T11:41:55.700Z || GET /data.json || Status: 404 || 1ms
+2025-04-18T11:41:55.700Z || GET /images/ghostbg.jpg || Status: 200 || 3ms
+2025-04-18T11:42:39.869Z || GET /sightings.html
+2025-04-18T11:42:39.869Z || GET /sightings.html || Status: 200 || 4ms
+2025-04-18T11:42:39.894Z || GET /index.css
+2025-04-18T11:42:39.894Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:42:39.896Z || GET /images/candle-logo.png
+2025-04-18T11:42:39.897Z || GET /index.js
+2025-04-18T11:42:39.897Z || GET /index.js || Status: 200 || 1ms
+2025-04-18T11:42:39.896Z || GET /images/candle-logo.png || Status: 200 || 3ms
+2025-04-18T11:42:39.905Z || GET /images/ghostbg.jpg
+2025-04-18T11:42:39.905Z || GET /data/data.json
+[ERROR] 2025-04-18T11:42:39.905Z || GET /data/data.json || Status: 404 || 1ms
+2025-04-18T11:42:39.905Z || GET /images/ghostbg.jpg || Status: 200 || 3ms
+2025-04-18T11:42:49.303Z || GET /sightings.html
+2025-04-18T11:42:49.303Z || GET /sightings.html || Status: 200 || 3ms
+2025-04-18T11:42:49.319Z || GET /index.css
+2025-04-18T11:42:49.319Z || GET /images/candle-logo.png
+2025-04-18T11:42:49.320Z || GET /index.js
+2025-04-18T11:42:49.319Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:42:49.319Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-18T11:42:49.320Z || GET /index.js || Status: 200 || 1ms
+2025-04-18T11:42:49.323Z || GET /images/ghostbg.jpg
+2025-04-18T11:42:49.324Z || GET /data/data.json
+2025-04-18T11:42:49.323Z || GET /images/ghostbg.jpg || Status: 200 || 2ms
+[ERROR] 2025-04-18T11:42:49.324Z || GET /data/data.json || Status: 404 || 2ms
+2025-04-18T11:43:03.009Z || GET /sightings.html
+2025-04-18T11:43:03.009Z || GET /sightings.html || Status: 200 || 2ms
+2025-04-18T11:43:03.023Z || GET /index.css
+2025-04-18T11:43:03.024Z || GET /images/candle-logo.png
+2025-04-18T11:43:03.024Z || GET /index.js
+2025-04-18T11:43:03.023Z || GET /index.css || Status: 200 || 2ms
+2025-04-18T11:43:03.024Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-18T11:43:03.024Z || GET /index.js || Status: 200 || 1ms
+2025-04-18T11:43:03.028Z || GET /images/ghostbg.jpg
+2025-04-18T11:43:03.029Z || GET /data/data.json
+2025-04-18T11:43:03.028Z || GET /images/ghostbg.jpg || Status: 200 || 2ms
+[ERROR] 2025-04-18T11:43:03.029Z || GET /data/data.json || Status: 404 || 3ms
+2025-04-18T11:43:25.207Z || GET /index.css
+2025-04-18T11:43:25.207Z || GET /index.css || Status: 200 || 4ms
+2025-04-18T11:44:17.223Z || GET /sightings.html
+2025-04-18T11:44:17.223Z || GET /sightings.html || Status: 200 || 3ms
+2025-04-18T11:44:17.260Z || GET /index.css
+2025-04-18T11:44:17.263Z || GET /index.js
+2025-04-18T11:44:17.260Z || GET /index.css || Status: 200 || 4ms
+2025-04-18T11:44:17.264Z || GET /images/candle-logo.png
+2025-04-18T11:44:17.263Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:44:17.264Z || GET /images/candle-logo.png || Status: 200 || 4ms
+2025-04-18T11:44:17.343Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:17.344Z || GET /api
+2025-04-18T11:44:17.344Z || GET /api || Status: 200 || 3ms
+2025-04-18T11:44:17.343Z || GET /images/ghostbg.jpg || Status: 200 || 5ms
+2025-04-18T11:44:20.276Z || GET /upload-sighting.html
+2025-04-18T11:44:20.276Z || GET /upload-sighting.html || Status: 200 || 3ms
+2025-04-18T11:44:20.301Z || GET /index.css
+2025-04-18T11:44:20.302Z || GET /images/candle-logo.png
+2025-04-18T11:44:20.304Z || GET /upload-sighting.js
+2025-04-18T11:44:20.305Z || GET /index.js
+2025-04-18T11:44:20.301Z || GET /index.css || Status: 200 || 4ms
+2025-04-18T11:44:20.302Z || GET /images/candle-logo.png || Status: 200 || 4ms
+2025-04-18T11:44:20.304Z || GET /upload-sighting.js || Status: 200 || 3ms
+2025-04-18T11:44:20.305Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:44:20.309Z || GET /api
+2025-04-18T11:44:20.309Z || GET /api || Status: 200 || 1ms
+2025-04-18T11:44:20.310Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:20.310Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:44:22.040Z || GET /sightings.html
+2025-04-18T11:44:22.040Z || GET /sightings.html || Status: 200 || 1ms
+2025-04-18T11:44:22.064Z || GET /index.css
+2025-04-18T11:44:22.064Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:44:22.067Z || GET /images/candle-logo.png
+2025-04-18T11:44:22.067Z || GET /index.js
+2025-04-18T11:44:22.067Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-18T11:44:22.067Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:44:22.071Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:22.071Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:44:22.078Z || GET /api
+2025-04-18T11:44:22.078Z || GET /api || Status: 200 || 3ms
+2025-04-18T11:44:23.437Z || GET /
+2025-04-18T11:44:23.437Z || GET / || Status: 200 || 1ms
+2025-04-18T11:44:23.460Z || GET /index.css
+2025-04-18T11:44:23.460Z || GET /images/candle-logo.png
+2025-04-18T11:44:23.461Z || GET /index.js
+2025-04-18T11:44:23.460Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:44:23.460Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-18T11:44:23.461Z || GET /index.js || Status: 200 || 1ms
+2025-04-18T11:44:23.464Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:23.464Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:44:23.465Z || GET /api
+2025-04-18T11:44:23.465Z || GET /api || Status: 200 || 1ms
+2025-04-18T11:44:27.107Z || GET /
+2025-04-18T11:44:27.107Z || GET / || Status: 200 || 2ms
+2025-04-18T11:44:27.121Z || GET /index.css
+2025-04-18T11:44:27.121Z || GET /images/candle-logo.png
+2025-04-18T11:44:27.121Z || GET /index.js
+2025-04-18T11:44:27.121Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:44:27.121Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-18T11:44:27.121Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:44:27.125Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:27.125Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:44:27.132Z || GET /api
+2025-04-18T11:44:27.132Z || GET /api || Status: 200 || 2ms
+2025-04-18T11:44:30.634Z || GET /sightings.html
+2025-04-18T11:44:30.634Z || GET /sightings.html || Status: 200 || 2ms
+2025-04-18T11:44:30.649Z || GET /index.css
+2025-04-18T11:44:30.649Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:44:30.651Z || GET /images/candle-logo.png
+2025-04-18T11:44:30.653Z || GET /index.js
+2025-04-18T11:44:30.651Z || GET /images/candle-logo.png || Status: 200 || 2ms
+2025-04-18T11:44:30.653Z || GET /index.js || Status: 200 || 1ms
+2025-04-18T11:44:30.656Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:30.658Z || GET /api
+2025-04-18T11:44:30.658Z || GET /api || Status: 200 || 1ms
+2025-04-18T11:44:30.656Z || GET /images/ghostbg.jpg || Status: 200 || 3ms
+2025-04-18T11:44:33.902Z || GET /upload-sighting.html
+2025-04-18T11:44:33.902Z || GET /upload-sighting.html || Status: 200 || 2ms
+2025-04-18T11:44:33.925Z || GET /index.css
+2025-04-18T11:44:33.926Z || GET /images/candle-logo.png
+2025-04-18T11:44:33.927Z || GET /upload-sighting.js
+2025-04-18T11:44:33.927Z || GET /index.js
+2025-04-18T11:44:33.925Z || GET /index.css || Status: 200 || 2ms
+2025-04-18T11:44:33.926Z || GET /images/candle-logo.png || Status: 200 || 2ms
+2025-04-18T11:44:33.927Z || GET /index.js || Status: 200 || 2ms
+2025-04-18T11:44:33.927Z || GET /upload-sighting.js || Status: 200 || 3ms
+2025-04-18T11:44:33.932Z || GET /api
+2025-04-18T11:44:33.932Z || GET /api || Status: 200 || 0ms
+2025-04-18T11:44:33.932Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:33.932Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-18T11:44:35.202Z || GET /
+2025-04-18T11:44:35.202Z || GET / || Status: 200 || 2ms
+2025-04-18T11:44:35.217Z || GET /index.css
+2025-04-18T11:44:35.217Z || GET /index.css || Status: 200 || 1ms
+2025-04-18T11:44:35.221Z || GET /images/candle-logo.png
+2025-04-18T11:44:35.223Z || GET /index.js
+2025-04-18T11:44:35.221Z || GET /images/candle-logo.png || Status: 200 || 3ms
+2025-04-18T11:44:35.223Z || GET /index.js || Status: 200 || 1ms
+2025-04-18T11:44:35.226Z || GET /api
+2025-04-18T11:44:35.227Z || GET /images/ghostbg.jpg
+2025-04-18T11:44:35.226Z || GET /api || Status: 200 || 1ms
+2025-04-18T11:44:35.227Z || GET /images/ghostbg.jpg || Status: 200 || 0ms
+2025-04-23T10:38:30.795Z || GET /index.html
+2025-04-23T10:38:30.795Z || GET /index.html || Status: 200 || 11ms
+2025-04-23T10:38:30.834Z || GET /index.css
+2025-04-23T10:38:30.834Z || GET /index.css || Status: 200 || 2ms
+2025-04-23T10:38:30.843Z || GET /images/candle-logo.png
+2025-04-23T10:38:30.843Z || GET /index.js
+2025-04-23T10:38:30.843Z || GET /index.js || Status: 200 || 1ms
+2025-04-23T10:38:30.843Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-23T10:38:30.984Z || GET /api
+2025-04-23T10:38:30.985Z || GET /images/ghostbg.jpg
+2025-04-23T10:38:30.984Z || GET /api || Status: 200 || 2ms
+2025-04-23T10:38:30.985Z || GET /images/ghostbg.jpg || Status: 200 || 4ms
+2025-04-23T10:38:31.061Z || GET /favicon.ico
+[ERROR] 2025-04-23T10:38:31.061Z || GET /favicon.ico || Status: 404 || 7ms
+2025-04-23T10:38:33.566Z || GET /sightings.html
+2025-04-23T10:38:33.566Z || GET /sightings.html || Status: 200 || 1ms
+2025-04-23T10:38:33.586Z || GET /index.css
+2025-04-23T10:38:33.586Z || GET /index.css || Status: 200 || 1ms
+2025-04-23T10:38:33.588Z || GET /images/candle-logo.png
+2025-04-23T10:38:33.588Z || GET /index.js
+2025-04-23T10:38:33.588Z || GET /index.js || Status: 200 || 1ms
+2025-04-23T10:38:33.588Z || GET /images/candle-logo.png || Status: 200 || 2ms
+2025-04-23T10:38:33.591Z || GET /images/ghostbg.jpg
+2025-04-23T10:38:33.593Z || GET /api
+2025-04-23T10:38:33.593Z || GET /api || Status: 200 || 1ms
+2025-04-23T10:38:33.591Z || GET /images/ghostbg.jpg || Status: 200 || 5ms
+2025-04-23T10:38:34.977Z || GET /upload-sighting.html
+2025-04-23T10:38:34.977Z || GET /upload-sighting.html || Status: 200 || 2ms
+2025-04-23T10:38:34.988Z || GET /index.css
+2025-04-23T10:38:34.988Z || GET /index.css || Status: 200 || 0ms
+2025-04-23T10:38:34.994Z || GET /images/candle-logo.png
+2025-04-23T10:38:34.995Z || GET /upload-sighting.js
+2025-04-23T10:38:34.995Z || GET /index.js
+2025-04-23T10:38:34.994Z || GET /images/candle-logo.png || Status: 200 || 1ms
+2025-04-23T10:38:34.995Z || GET /upload-sighting.js || Status: 200 || 1ms
+2025-04-23T10:38:34.995Z || GET /index.js || Status: 200 || 1ms
+2025-04-23T10:38:34.998Z || GET /api
+2025-04-23T10:38:34.998Z || GET /api || Status: 200 || 0ms
+2025-04-23T10:38:34.999Z || GET /images/ghostbg.jpg
+2025-04-23T10:38:34.999Z || GET /images/ghostbg.jpg || Status: 200 || 1ms
+2025-04-23T10:38:40.399Z || GET /
+2025-04-23T10:38:40.399Z || GET / || Status: 200 || 3ms
+2025-04-23T10:38:40.412Z || GET /index.css
+2025-04-23T10:38:40.415Z || GET /images/candle-logo.png
+2025-04-23T10:38:40.417Z || GET /index.js
+2025-04-23T10:38:40.412Z || GET /index.css || Status: 200 || 6ms
+2025-04-23T10:38:40.415Z || GET /images/candle-logo.png || Status: 200 || 4ms
+2025-04-23T10:38:40.417Z || GET /index.js || Status: 200 || 2ms
+2025-04-23T10:38:40.421Z || GET /api
+2025-04-23T10:38:40.421Z || GET /images/ghostbg.jpg
+2025-04-23T10:38:40.421Z || GET /api || Status: 200 || 1ms
+2025-04-23T10:38:40.421Z || GET /images/ghostbg.jpg || Status: 200 || 3ms
