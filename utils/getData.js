@@ -2,11 +2,11 @@ import fs from 'fs/promises'
 
 export async function getData() {
   try {
-    const data = await fs.readFile('./data/data.json', 'utf8'); // Specify encoding to get a string
-    const newData = JSON.parse(data); // Parse the JSON data
-    return newData;
+    const data = await fs.readFile('./data/data.json', 'utf8'); 
+    const parsedData = JSON.parse(data); 
+    return parsedData;
   } catch (err) {
-    console.error(err);
-    return []; // make sure something is returned!
+    console.error("Failed to read or parse data.json:", err);
+    return [];
   }
 }

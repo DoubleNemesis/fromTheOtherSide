@@ -1,7 +1,7 @@
 import path from "path";
 import fs from "fs/promises";
 import { getContentType } from "./getContentType.js";
-import { sendJSONResponse } from "./sendJSONResponse.js";
+import { sendResponse } from "./sendResponse.js";
 
 export async function serveStaticFile(req, res, baseDir) {
     
@@ -15,14 +15,14 @@ export async function serveStaticFile(req, res, baseDir) {
 
   try {
     const content = await fs.readFile(filePath);
-    sendJSONResponse(res, 200, contentType, content);
+    sendResponse(res, 200, contentType, content);
   } catch (err) {
     // console.log(err)
     if (err.code === "ENOENT") {
       const content = await fs.readFile(path.join(publicDir, "404.html"));
-      sendJSONResponse(res, 404, "text/html", content);
+      sendResponse(res, 404, "text/html", content);
     } else {
-      sendJSONResponse(res, 500, "text/html", `Server Error: ${err.code}`);
+      sendResponse(res, 500, "text/html", `Server Error: ${err.code}`);
     }
   }
 }

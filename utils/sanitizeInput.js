@@ -14,13 +14,9 @@ function sanitizeFields(data) {
     }, {});
 }
 
-export function sanitizeInput(req, res, next) {
-    console.log('sanitization started')
-        try {
-            req.body = sanitizeFields(req.body);
-            next(); // Pass to next middleware or route
-        } catch (err) {
-            res.writeHead(400, { 'Content-Type': 'application/json' });
-            return res.end(JSON.stringify({ error: 'Invalid JSON format' }));
-        }
-}
+export function sanitizeInput(body) {
+    if (!body || typeof body !== 'object') {
+      throw new Error('Invalid input')
+    }
+    return sanitizeFields(body);
+  }
